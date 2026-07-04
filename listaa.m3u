@@ -1,169 +1,343 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1339713" tvg-name="Obsessão" tvg-logo="https://image.tmdb.org/t/p/w500/yhtt7IdzjJ6Vwh1AcG54QFYPtwf.jpg",Obsessão
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1339713
-https://embed-api.clickhost.xyz/embed/stream/2663850?token=c3RyZWFtOjI2NjM4NTA6MTc4MzIxNzk2ODo4MjAyYzBkZWZiNzVlYmRhMzU5MTNjMTU4ZTk3ZTgxNGI4YmJiYmRmNjNlYjBjNWFkMDFiMWNmYmJkMTk3MmE0
-#EXTINF:-1 tvg-id="1083381" tvg-name="Backrooms: Um Não-Lugar" tvg-logo="https://image.tmdb.org/t/p/w500/al4Zwam2q3vFTo3PUDrWQlJjHxT.jpg",Backrooms: Um Não-Lugar
-#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1083381
-https://embed-api.clickhost.xyz/embed/stream/3148248?token=c3RyZWFtOjMxNDgyNDg6MTc4MzIxNzk2NTo4NzA0NzJjZDBjYzFkMTg0MGJjNjJhOWE0ZWRmMTQ3ZTkzMmFmYTJmZGZkMTYxYzRkMGJlZDc5NjA5MmNjZjVl
+https://embed-api.clickhost.xyz/embed/stream/5387549?token=c3RyZWFtOjUzODc1NDk6MTc4MzIyMDE2NDo0YzVjNjc1M2RlYTY2NTUwYzU3OGU1MzdkZWYwYTdmY2RhZWRjOTgzNjYwN2VkZWU2ZThkNjAxOTFjYTVlNjNl
 #EXTINF:-1 tvg-id="1314481" tvg-name="O Diabo Veste Prada 2" tvg-logo="https://image.tmdb.org/t/p/w500/50yWyY981TyUHhoxxSEKwO70FmQ.jpg",O Diabo Veste Prada 2
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1314481
-https://embed-api.clickhost.xyz/embed/stream/2644250?token=c3RyZWFtOjI2NDQyNTA6MTc4MzIxNzk2NTowY2I3ZmZlZDkxNDY0YWRlMTlhNTk2YTYyYTE2MGMzZTJkZDNmYjU2NDU4NmY2MDIyNjZjNTUwNDY1NzFiYjNj
+https://embed-api.clickhost.xyz/embed/stream/2644250?token=c3RyZWFtOjI2NDQyNTA6MTc4MzIyMDE0NDplN2I1MjdiNjhhZTFmYTYzOThjYTc5NjUwYWUyZDJhNjFlNDUzNWRiMzdkMTllMmE5MzZmZGE2MjQ3NjM4ZDFj
 #EXTINF:-1 tvg-id="936075" tvg-name="Michael" tvg-logo="https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",Michael
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/936075
-https://embed-api.clickhost.xyz/embed/stream/3123373?token=c3RyZWFtOjMxMjMzNzM6MTc4MzIxNzk2NzplMGIxMzIyNTBmZTUwNGIyNjQ0OTBhMTI4ZjlmMTdiYjk2NGE0NTZmZWFkODEzYmI5Nzg3NDM0MWQ4YTczNjkw
+https://embed-api.clickhost.xyz/embed/stream/3123373?token=c3RyZWFtOjMxMjMzNzM6MTc4MzIyMDE0NTowYTJmMWQ1Y2RiMjA3YjA3N2EzZjIwODZlYjc3OWQ2OWVkNTFiMWE1MTBkMTA5ZDlhNDFhYzU5MWI0YzY4YmRl
 #EXTINF:-1 tvg-id="1301421" tvg-name="As Ovelhas Detetives" tvg-logo="https://image.tmdb.org/t/p/w500/crW4rarCRUVRSRFy3Bufw8Mwf8l.jpg",As Ovelhas Detetives
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1301421
-https://embed-api.clickhost.xyz/embed/stream/4271114?token=c3RyZWFtOjQyNzExMTQ6MTc4MzIxNzk2NToyODA0YzE1NWM0YjU3MmVhZDAwZDA4MzgzYWZkNDNlMDY2N2FiMmM3ZjlmNTQ1NGU5ZDU3NTM5OGQxYmFlMzQ3
+https://embed-api.clickhost.xyz/embed/stream/4271114?token=c3RyZWFtOjQyNzExMTQ6MTc4MzIyMDE0NDoyYWU4YmZjZTQyODg5MmFmMDg3ZTAxZTE1Y2I4YTIwNTk1OGMwNmMxODJjYTFmOWEwNGFjMjZjMmM4ZmI0OTli
 #EXTINF:-1 tvg-id="931285" tvg-name="Mortal Kombat 2" tvg-logo="https://image.tmdb.org/t/p/w500/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",Mortal Kombat 2
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/931285
-https://embed-api.clickhost.xyz/embed/stream/3423350?token=c3RyZWFtOjM0MjMzNTA6MTc4MzIxNzk2NzpmYTAyMzFiOTMzZDg0YWRhMDA0Yzk3NDA4MzNhZjVkOWJhZGY3ZDc5ZjViOTgyMTE5YWVmNTQ2NTY1M2IwMzQy
+https://embed-api.clickhost.xyz/embed/stream/3423350?token=c3RyZWFtOjM0MjMzNTA6MTc4MzIyMDE0NTpjYjVhMzdkNGMxZTA0ODZhODdjMWQzZTgzZGU0OWEwYWM1Nzg2YjIzYTFhNDc1ODcyMjliYjg3ZGZhODBiNTZk
 #EXTINF:-1 tvg-id="1202033" tvg-name="Enola Holmes 3" tvg-logo="https://image.tmdb.org/t/p/w500/dxqsd2iYZGzZafGxFWbHaDFACMp.jpg",Enola Holmes 3
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1202033
-https://embed-api.clickhost.xyz/embed/stream/5387551?token=c3RyZWFtOjUzODc1NTE6MTc4MzIxNzk2NTpkNmJhNTI4NjY3ZTk3OGEwMzE3Y2E1ZTRhYzVmOTFhZWQxMmJlMGI2ZmU5ZDMyMGY1MmIyZmE2ODg4Nzg4ZWFh
+https://embed-api.clickhost.xyz/embed/stream/5387551?token=c3RyZWFtOjUzODc1NTE6MTc4MzIyMDE0NDo2MWJkMDAwNTdmM2ViMzViZTQ4YTFmZjViZDk2ZWFjZjllMWRkMTdkODQwZDA1MjIzZjA0NjM3OWUxMmQzM2Qx
 #EXTINF:-1 tvg-id="11012" tvg-name="Perdas e Danos" tvg-logo="https://image.tmdb.org/t/p/w500/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg",Perdas e Danos
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/11012
-https://embed-api.clickhost.xyz/embed/stream/2663879?token=c3RyZWFtOjI2NjM4Nzk6MTc4MzIxNzk2NTo5YzBmYTUzNjczMzA1ZDhkZTlmOTI2MTZlYjc0MDY4ODM5ZTE3YjgzODQ3NzBmMzQzY2NlYjAzZDMwNDY1ZTM5
+https://embed-api.clickhost.xyz/embed/stream/2663879?token=c3RyZWFtOjI2NjM4Nzk6MTc4MzIyMDE0NDo3ODJjMmM0OTE2YTI5OWU2MzcyNGE5ZGI2YTQ3YzJmZTUzNGU5NDRmYWUyMGRlMDI4YmQ3Y2JlNjZmYzEyNzg1
 #EXTINF:-1 tvg-id="1226863" tvg-name="Super Mario Galaxy: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",Super Mario Galaxy: O Filme
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1226863
-https://embed-api.clickhost.xyz/embed/stream/3123553?token=c3RyZWFtOjMxMjM1NTM6MTc4MzIxNzk2NToyMTIxZTY2N2FiYTg5YTRhNzQ2YzY3Yzk3OTg0NjJlNjgwZjNiNGQ2OGMyMmJmZGJhNmJlNmRiNTc4ZDc1YjU3
+https://embed-api.clickhost.xyz/embed/stream/3123553?token=c3RyZWFtOjMxMjM1NTM6MTc4MzIyMDE0NDo1MjQ0OWM4NTc4NzJhZDBhOWJjMjU4MmUzNTRjZDI2MTFkMjk2YzU0MDY5ZjBlZGY5MzJiODg1NWZmZDI3ZWFk
 #EXTINF:-1 tvg-id="1397385" tvg-name="Little Brother" tvg-logo="https://image.tmdb.org/t/p/w500/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",Little Brother
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1397385
-https://embed-api.clickhost.xyz/embed/stream/5086715?token=c3RyZWFtOjUwODY3MTU6MTc4MzIxNzk4MTo0NTcwN2YyYjUyYTM4OTEyMDQ2MDRiNGRmMzM0NDg1YWEzY2NhODIzNjdjYTBlZjJkMzY5YWFiMDNhZjdjNWJi
+https://embed-api.clickhost.xyz/embed/stream/5086715?token=c3RyZWFtOjUwODY3MTU6MTc4MzIyMDE4ODo3YTFhZjBiMmY3MDU4MWVmYjEwMTIwYmUzYTUzY2M5ZjQzOWFkMzYwMmZmYTgyMDA2Yzk5ZGFiNmJkMWM0NWVl
 #EXTINF:-1 tvg-id="83533" tvg-name="Avatar: Fogo e Cinzas" tvg-logo="https://image.tmdb.org/t/p/w500/3almrQT8GnrDjnQeWotdExjJhZm.jpg",Avatar: Fogo e Cinzas
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/83533
-https://embed-api.clickhost.xyz/embed/stream/3124252?token=c3RyZWFtOjMxMjQyNTI6MTc4MzIxNzk4Mjo1MjkwZDI2NzM0ZDk4YWYyNmNlMTk0MjY2MjFjZDYyODVlMGRiMjRjOGU2ZGI2YThjMWM3ZDQwZDhlOWZjOWY5
+https://embed-api.clickhost.xyz/embed/stream/3124252?token=c3RyZWFtOjMxMjQyNTI6MTc4MzIyMDE4ODplZWY4YTg5Y2RlYWE2MWJhMmNhNGM0MWQ3N2Y4MjI4YTdjNWVhOTZmMjRlN2ZlZmY4OTU3YjFhOGI0Yjg0ZTJl
 #EXTINF:-1 tvg-id="278" tvg-name="Um Sonho de Liberdade" tvg-logo="https://image.tmdb.org/t/p/w500/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",Um Sonho de Liberdade
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/278
-https://embed-api.clickhost.xyz/embed/stream/2656055?token=c3RyZWFtOjI2NTYwNTU6MTc4MzIxNzk4NDpiNjZkMDlhMzRhODNmNDkzMTBlNjRhMmZiODU0MzA5MWQ1NWJlODEwN2Y3MzQ4ZDM5ZTMwZDZhMmQzZWU1YWZl
+https://embed-api.clickhost.xyz/embed/stream/2656055?token=c3RyZWFtOjI2NTYwNTU6MTc4MzIyMDE4OTo4ZDZiZjg4MDlmY2M5MDI4ZTM3MWZiZTI0ODVhMmY2Y2E0YWFhZjdiMzIwZTg0NGM0OGRiYTliZGMyMDkxMzE3
 #EXTINF:-1 tvg-id="301528" tvg-name="Toy Story 4" tvg-logo="https://image.tmdb.org/t/p/w500/csiyO6q8rR74pfgJDjwINzhoick.jpg",Toy Story 4
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/301528
-https://embed-api.clickhost.xyz/embed/stream/3147417?token=c3RyZWFtOjMxNDc0MTc6MTc4MzIxNzk4Mjo5ZDk0MTI5Yjg3MTgyN2YyMGQxMjk1MWFmODNkZjU2YjAwMDcxMDhmYWQxY2I1NmFkOGRkMmU0ZTJhZjhkZThk
+https://embed-api.clickhost.xyz/embed/stream/3147417?token=c3RyZWFtOjMxNDc0MTc6MTc4MzIyMDE4ODpmMTA4Mzk3YmRiOGZiNWM2MjdiNDM5YTQzNDQwZGM4ZTk1OTAwZjcxMWUwZjQ1OTc3MjdkNmJlOWM2YzI1NTYw
 #EXTINF:-1 tvg-id="687163" tvg-name="Devoradores de Estrelas" tvg-logo="https://image.tmdb.org/t/p/w500/7pIgFNoX07z7alHt73TSsKRtYye.jpg",Devoradores de Estrelas
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/687163
-https://embed-api.clickhost.xyz/embed/stream/3123701?token=c3RyZWFtOjMxMjM3MDE6MTc4MzIxNzk4MjowNTFjOWJlMDczZDVmZDg1OTg3ZTNjNDUyYTQ1MTg0NzRhM2ZmMGYxMTM1N2NiNjA0YjY0YzI5YmViYTBiOTYz
+https://embed-api.clickhost.xyz/embed/stream/3123701?token=c3RyZWFtOjMxMjM3MDE6MTc4MzIyMDE4ODoxYTQ0MTQ5YWZhM2E4NDc2ZThiNmVhNTA0NzllYWI0YTM2ZTU5MWFlYmM1YTllODdmOGZjNjU5NzdiNDQxOWY3
 #EXTINF:-1 tvg-id="614945" tvg-name="Mensagens para Isabelle" tvg-logo="https://image.tmdb.org/t/p/w500/nf7N5j407xPTOEPG0feJJbKFNRd.jpg",Mensagens para Isabelle
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/614945
-https://embed-api.clickhost.xyz/embed/stream/3423320?token=c3RyZWFtOjM0MjMzMjA6MTc4MzIxNzk4MjpkMDhlM2NlNjhkMDMxOGJiMjRlYzU1YWQ0ODNjZjg1NzcwNjA1NWViNDBiOWVkM2FiZTY1MGRlNThmNzQ5OTU2
+https://embed-api.clickhost.xyz/embed/stream/3423320?token=c3RyZWFtOjM0MjMzMjA6MTc4MzIyMDE4ODoxZTdjZDBjYzI5NzZhNjIwYmVhNWIzODMwNDk5MzBlMDVjYTRmNWYzYjFlZDZlMWRmYmYyM2RmMzVjZjEyMjY1
 #EXTINF:-1 tvg-id="976912" tvg-name="O Limite do Prazer" tvg-logo="https://image.tmdb.org/t/p/w500/fmLQaEPC9uRCbjPs1NI4S90qimH.jpg",O Limite do Prazer
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/976912
-https://embed-api.clickhost.xyz/embed/stream/2664382?token=c3RyZWFtOjI2NjQzODI6MTc4MzIxNzk4NTpjM2FlNTBmMTIxZDdkZjEwZTcyZGEwYzA1MDFlMWU0NDZiZTFkZjg3YmU4NjI1N2NhOTk4OWM4NmQxMzgwYmVl
+https://embed-api.clickhost.xyz/embed/stream/3129660?token=c3RyZWFtOjMxMjk2NjA6MTc4MzIyMDE4ODpiZDAyMTNjZTE1MzQ2OWYzNDQ2N2YxYTA0YjhhN2MzYjc2YmNkNjFkNTRlYzcxZDEwOWZlMTdjNGRjOWQxODYx
 #EXTINF:-1 tvg-id="1304313" tvg-name="Maldição da Múmia" tvg-logo="https://image.tmdb.org/t/p/w500/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",Maldição da Múmia
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1304313
-https://embed-api.clickhost.xyz/embed/stream/3123552?token=c3RyZWFtOjMxMjM1NTI6MTc4MzIxNzk4Mjo1NjdkOWE0YmQwYWU3YzM5NzM2OGQ3ODQ4ODM4YTJhNWRhMTI1ZGUxNThlNDI2ZWIyZGVlNzkzNzNhZTFkZjlh
+https://embed-api.clickhost.xyz/embed/stream/3123588?token=c3RyZWFtOjMxMjM1ODg6MTc4MzIyMDE4OTo3YWVjNmUyZjM1NDBiZjlhYmM3MGYzNTM3YmFlYzVjYzk1YjI2NTY5ZDNhOWE1NGY4YzQ1YWU2ZjNlZGExNjIx
 #EXTINF:-1 tvg-id="1007757" tvg-name="Como Mágica" tvg-logo="https://image.tmdb.org/t/p/w500/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg",Como Mágica
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1007757
-https://embed-api.clickhost.xyz/embed/stream/3123833?token=c3RyZWFtOjMxMjM4MzM6MTc4MzIxNzk4MjpmMjZmMjBhMTliZDRmNDc2YmJlOTM5OTkzNTZhOWI1ZDY4M2EwMTNhYjQyNTZhYTc5OWIxN2YwMjc2YmRmODk1
+https://embed-api.clickhost.xyz/embed/stream/2644237?token=c3RyZWFtOjI2NDQyMzc6MTc4MzIyMDE5MTpkNzU5ODc3NzlkOTVhZDI3ZDAyZGQ0MjJkMGI4MTMzNmQ3ZjEwZjU4NjFiYjI3NGNlMDM5YjdkZWMxNDI5NGZi
 #EXTINF:-1 tvg-id="862" tvg-name="Toy Story: Um Mundo de Aventuras" tvg-logo="https://image.tmdb.org/t/p/w500/686F0CEPmI4ZXjFbWtIHQOBwnfI.jpg",Toy Story: Um Mundo de Aventuras
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/862
-https://embed-api.clickhost.xyz/embed/stream/3141648?token=c3RyZWFtOjMxNDE2NDg6MTc4MzIxNzk4Mjo1ZTNiMjgxODBhZDAxZDliY2JlYzJmZWU2OTc4ZTEyYzdlZjhlZDc5MzhkY2I5OWUzNTYzNmQzMzdiZWQ2OTcw
+https://embed-api.clickhost.xyz/embed/stream/3141648?token=c3RyZWFtOjMxNDE2NDg6MTc4MzIyMDE4ODo3YjkwYTVlYzZmZWIxMjhmNjBmYmI5MzRlNzgxYzZhOWUyZDJlNWI2MmM5MzA0YTJlODQxNWJhNzBkY2ZhYjJl
 #EXTINF:-1 tvg-id="1122573" tvg-name="Na Zona Cinzenta" tvg-logo="https://image.tmdb.org/t/p/w500/h1eUeDH35Tdvsfu7Ouefa7CPwLa.jpg",Na Zona Cinzenta
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1122573
-https://embed-api.clickhost.xyz/embed/stream/3041847?token=c3RyZWFtOjMwNDE4NDc6MTc4MzIxNzk4NDoyZDM3OTMyNzRhNDRjODdmZmQwZTA3M2JmY2MxYTU0MGI0ZjNhOTI5Y2IyMWYxMjEzYTgyNGUyMGYyMWMyOWRi
+https://embed-api.clickhost.xyz/embed/stream/3041847?token=c3RyZWFtOjMwNDE4NDc6MTc4MzIyMDE4OTplNzYzZDE1ZThkNWJiN2E0ODU5OWRkYzUzOWUxNDFiZjg0MTU0OGRkMGJmODlkNmU1MjBhOWQ4ZmQ2NjgxM2Y5
 #EXTINF:-1 tvg-id="1327819" tvg-name="Cara de Um, Focinho de Outro" tvg-logo="https://image.tmdb.org/t/p/w500/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",Cara de Um, Focinho de Outro
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1327819
-https://embed-api.clickhost.xyz/embed/stream/3123394?token=c3RyZWFtOjMxMjMzOTQ6MTc4MzIxNzk4Mjo2NzQwNDQ4NDg0YzVlYjRiMDY1Y2JhZjZmODU1OWJlNWViYTVhZDkzM2I3ZmJmNTVhMDRjOTQzZTJmYWE5NWMx
+https://embed-api.clickhost.xyz/embed/stream/3123394?token=c3RyZWFtOjMxMjMzOTQ6MTc4MzIyMDE4ODpkNmY3NzczYjFjYjIwOGNjNTFlYzQ4MzYwYzU5MzljYjU5YTU1YTJjNzIyNmVjNTU3MzhmMTMyNTljZmQwN2Uy
 #EXTINF:-1 tvg-id="1477317" tvg-name="Sua Culpa: Londres" tvg-logo="https://image.tmdb.org/t/p/w500/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",Sua Culpa: Londres
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1477317
-https://embed-api.clickhost.xyz/embed/stream/4271124?token=c3RyZWFtOjQyNzExMjQ6MTc4MzIxNzk5NTo3OWNlMDllZWRjODJiMTc5MDAwZWU4MmY4M2I0YjJmNWYyODAxMTM4NDc0ZjEzOTQ2MmY5MWMxZGY5YzRjZTY2
+https://embed-api.clickhost.xyz/embed/stream/2648920?token=c3RyZWFtOjI2NDg5MjA6MTc4MzIyMDIxODo2YWQ1NjBlMzBmZjViODgyNzM1MTlhZmZhYjAxYWUyOGI3ZTNiMDEyMTUyZWExNTQ5Y2M3NmM3MGRkY2U2OTJl
 #EXTINF:-1 tvg-id="1439930" tvg-name="O Justiceiro: Uma Última Morte" tvg-logo="https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",O Justiceiro: Uma Última Morte
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1439930
-https://embed-api.clickhost.xyz/embed/stream/3123630?token=c3RyZWFtOjMxMjM2MzA6MTc4MzIxNzk5NTo3NDhiOGVlMDk3MmZlMGIzMTliNDllNjUyNjY2NGQ0MTViYzgxMDZhZmU0NzllNWE1NGVmMjhlNmVmNmUxOTQz
+https://embed-api.clickhost.xyz/embed/stream/3123666?token=c3RyZWFtOjMxMjM2NjY6MTc4MzIyMDIxODowNzVmNDU1NjE3NDM4YjUzZTg1ZjdjYjA1YzVhOGU1ZTg1YzUyYzM0MjI0MjVjZTQyNmJiNDEyNzZmZmJjM2M0
 #EXTINF:-1 tvg-id="1239134" tvg-name="A Maldição do Casamento" tvg-logo="https://image.tmdb.org/t/p/w500/ftAgBfDGfzLfnuHEz8nDOup4PD3.jpg",A Maldição do Casamento
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1239134
-https://embed-api.clickhost.xyz/embed/stream/5086711?token=c3RyZWFtOjUwODY3MTE6MTc4MzIxNzk5NTplNmFjMGE3YWI3YzNjMWE3MzVkNzFhMjUxYjE4NzgxZDM0YjdmZDkwYzI3MTQ0NTgyMTVjMWViODIzNWNhYzEx
+https://embed-api.clickhost.xyz/embed/stream/5086711?token=c3RyZWFtOjUwODY3MTE6MTc4MzIyMDIxNzoyZGEwYWUwZTFhYzA3MmZiOWE1NjhjNmEyMzhjODFkMGJmMGEzYWM1OWFkMTIyNGQ4NmQ0MzI1Y2QwM2I2NzIx
 #EXTINF:-1 tvg-id="1419406" tvg-name="Operação Sombra" tvg-logo="https://image.tmdb.org/t/p/w500/sKIrEUGazQ8w7AtqvohL8HzWGMb.jpg",Operação Sombra
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1419406
-https://embed-api.clickhost.xyz/embed/stream/4022695?token=c3RyZWFtOjQwMjI2OTU6MTc4MzIxODAwODpjMzk1NWNhZDhmODViZTlhMTE0YWI5MzFmZmQ1NDc4NGQ0NzI2MWJlZTNlY2UxZTY5Yzg4MTlkNDA0OTczYjZi
+https://embed-api.clickhost.xyz/embed/stream/4022695?token=c3RyZWFtOjQwMjI2OTU6MTc4MzIyMDIyNDowZTYzNWM1YTQyNDQ2NGEyNDZjZTU3YTRjNjFiODUzM2Y4ZmVjNzQxMTQ0ZDhlNjIzNGEyYzg0ZjhhMmYwYzkz
 #EXTINF:-1 tvg-id="454639" tvg-name="Mestres do Universo" tvg-logo="https://image.tmdb.org/t/p/w500/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",Mestres do Universo
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/454639
-https://embed-api.clickhost.xyz/embed/stream/2652605?token=c3RyZWFtOjI2NTI2MDU6MTc4MzIxODAwMDpkZmMxNmNkNDI1OTlhZjgwYzRlMzdmOTBmNzBkYjBhZTQ0NzBlYWI1MGNkMGMxMzRlY2Q4N2ZmYTgxZjE2NmQ1
+https://embed-api.clickhost.xyz/embed/stream/2652605?token=c3RyZWFtOjI2NTI2MDU6MTc4MzIyMDIzNDo3YTdlMThjMGU1ZDM5MWViYmYwOTAyYTYxNzJiNjJkMjAzM2FkOTY0NDAwZjZlNDUwYjcwM2M0ZTc3ZTNiMDlk
 #EXTINF:-1 tvg-id="1084242" tvg-name="Zootopia 2" tvg-logo="https://image.tmdb.org/t/p/w500/sOgzzmyHJ3uWjEU509AwrcXoE71.jpg",Zootopia 2
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1084242
-https://embed-api.clickhost.xyz/embed/stream/3125120?token=c3RyZWFtOjMxMjUxMjA6MTc4MzIxNzk5NjoxZmU4MDliYzMzOTk3OWEzM2ZiMWZmZjAxYWM1NjhiZjFiYjY3OTcwYWM1NjUyZjNlOGFmNzdhMmI0NTQ0ZTdh
+https://embed-api.clickhost.xyz/embed/stream/3125120?token=c3RyZWFtOjMxMjUxMjA6MTc4MzIyMDIxNzplYWJmZDUyNGJhMzEwYjgwYzdlNzY2MTYyZmNkMTFmNzE5Mjk1MjUzZDY3MGI4N2IyMzUyMzY4ZjIyZjkwN2M2
 #EXTINF:-1 tvg-id="1380291" tvg-name="Jack Ryan de Tom Clancy: Guerra Fantasma" tvg-logo="https://image.tmdb.org/t/p/w500/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",Jack Ryan de Tom Clancy: Guerra Fantasma
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1380291
-https://embed-api.clickhost.xyz/embed/stream/3123475?token=c3RyZWFtOjMxMjM0NzU6MTc4MzIxNzk5NjphNzRhZDE3ZTFhYTMyN2RjZDUwMDdmNjNkNmM5NmMxNGQ0M2NmZmI5NGJlMmQ4ZGFjNGMyMGM5ZmYzOWFmZjVm
+https://embed-api.clickhost.xyz/embed/stream/3123475?token=c3RyZWFtOjMxMjM0NzU6MTc4MzIyMDIxNzowODI5NjVlNzVmZjg3MGQ5ZTZlNmI0MzQxZjZlY2NkM2E2ZmUzYzY5NWVhOWQ3YzkwNTM0NzdhODk3OGJlMGFm
 #EXTINF:-1 tvg-id="157336" tvg-name="Interestelar" tvg-logo="https://image.tmdb.org/t/p/w500/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg",Interestelar
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/157336
-https://embed-api.clickhost.xyz/embed/stream/3141827?token=c3RyZWFtOjMxNDE4Mjc6MTc4MzIxNzk5NjozMGY0OTBhNzk4YTJiMDgwZGJkN2RjNzk4YjNhZTFlNDU0MDVhNzVjMWI4YzY2ZmJkNWQ3YTM5OGFkZGQ3ZTEy
+https://embed-api.clickhost.xyz/embed/stream/3141827?token=c3RyZWFtOjMxNDE4Mjc6MTc4MzIyMDIxNzo2YzlkYTRlOGUwNjlkMzEwNDNlY2QwZjliMDE5Yzk0MDc5ZTdkZTE0OGM4OTljYjVhMWJmMWM0ZDdhMTlhNDRk
 #EXTINF:-1 tvg-id="1084187" tvg-name="Lindas e Letais" tvg-logo="https://image.tmdb.org/t/p/w500/3PdG3VE95F7fcawJrAfm9bdUvMy.jpg",Lindas e Letais
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1084187
-https://embed-api.clickhost.xyz/embed/stream/2644120?token=c3RyZWFtOjI2NDQxMjA6MTc4MzIxNzk5ODowMTcxOTI4Y2JkYzM3ZWU4ODJjZTc0Yzk1NzU4MTkwOWJlMWJkMmUzNDBhNTYyOWExYzAzYjhjNjQ5ZWU0NmY0
+https://embed-api.clickhost.xyz/embed/stream/3124669?token=c3RyZWFtOjMxMjQ2Njk6MTc4MzIyMDIxNzo5ZWIwODg4MTU3MjI0ZjVkNjJmZjAyYzQyOGViZWE0MDlmMzJhZWY4ODE1NTdkZDBlZTRiZjg3Yzg2NDAyZDk3
 #EXTINF:-1 tvg-id="1368337" tvg-name="A Odisseia" tvg-logo="https://image.tmdb.org/t/p/w500/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",A Odisseia
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1368337
-https://embed-api.clickhost.xyz/embed/stream/4014907?token=c3RyZWFtOjQwMTQ5MDc6MTc4MzIxODAxNTowYTFiNWRmZTkzNzAxMjEyYTQzYjhmMGY2OGU4ZWE3ZTlmYzQwYzNkNmFlNjEzODAzNDdhMjkwNjljZjZlMDE1
+https://embed-api.clickhost.xyz/embed/stream/4014907?token=c3RyZWFtOjQwMTQ5MDc6MTc4MzIyMDI0Mzo2MTkxMGU1ZDQ0ODg5ZDJmNjdmNjRhMjJkZDM1NjM1MTMxMGVmZmE4ZTM2NWRjZTg0MzIzMzQ3ZDRiODkxN2Nk
 #EXTINF:-1 tvg-id="755898" tvg-name="A Guerra dos Mundos" tvg-logo="https://image.tmdb.org/t/p/w500/yY5CbfXBxsPvYi0TzmaCP7uunnn.jpg",A Guerra dos Mundos
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/755898
-https://embed-api.clickhost.xyz/embed/stream/2643729?token=c3RyZWFtOjI2NDM3Mjk6MTc4MzIxODAxOTo4NTM2YWJhMWM4NmZjNjljMTBjYWViYzE2NmE4YWUyYTQ2YWNlYTM0YTc0YjRjNzYzNmExOWY4NWIzYTI3NmIx
+https://embed-api.clickhost.xyz/embed/stream/3130327?token=c3RyZWFtOjMxMzAzMjc6MTc4MzIyMDI0NDo4Mzc2ZTc0NTIwMzg5YzZmMTJiZjU1M2VjZjYxNzU1ZTNlZmE3NjBhYWExMGE5YzUxYTBhYzg3ODkzNWQ1ZWI0
 #EXTINF:-1 tvg-id="1430077" tvg-name="Hokum: O Pesadelo da Bruxa" tvg-logo="https://image.tmdb.org/t/p/w500/fn5QNtG3LLXC3e7ZTQDYP92kFYc.jpg",Hokum: O Pesadelo da Bruxa
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1430077
-https://embed-api.clickhost.xyz/embed/stream/2648921?token=c3RyZWFtOjI2NDg5MjE6MTc4MzIxODAyMTo1N2M5YzE0MDMwMWJiMmU5MWMzYmRhYmE3NDk1NDdkYmY0YjcyMjgyNjA1Yjk1NmY5Y2EyNGRkODhlOTJjZTUx
+https://embed-api.clickhost.xyz/embed/stream/2648921?token=c3RyZWFtOjI2NDg5MjE6MTc4MzIyMDI0Nzo3MTJmOTlkZDQ3YzE2MDM0ZGE5NDY5NzJhYTJkYWY0YWQ3M2NiNDE5ZDIxNjMxYThkODY3Y2Q4ZDRlNmRjNWZk
 #EXTINF:-1 tvg-id="1297842" tvg-name="Um Cabra Bom de Bola" tvg-logo="https://image.tmdb.org/t/p/w500/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",Um Cabra Bom de Bola
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1297842
-https://embed-api.clickhost.xyz/embed/stream/3124699?token=c3RyZWFtOjMxMjQ2OTk6MTc4MzIxODAxNjo0ZGRkZjNiMTNiZDM1YmIwNGJmMGNhMTM3MTYyNDRiNTc5ZjJlN2Q3NGMyZDgxYzc4MzI4M2UyYjFiOTU3YTMx
+https://embed-api.clickhost.xyz/embed/stream/3124699?token=c3RyZWFtOjMxMjQ2OTk6MTc4MzIyMDI0NDo3ZjM5Y2VmMGFlMzU3ODlmZTVkNzNhMjMzM2NlNmJlMjg2ZGQ5MDM3YWQzZDQxOGY5MTg0NzBiOWY5NmNiMmY4
 #EXTINF:-1 tvg-id="1125257" tvg-name="Uma Sexta-Feira Mais Louca Ainda" tvg-logo="https://image.tmdb.org/t/p/w500/zAeOSpIY5FfaF4RhuZgUWyWF0VH.jpg",Uma Sexta-Feira Mais Louca Ainda
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1125257
-https://embed-api.clickhost.xyz/embed/stream/3128276?token=c3RyZWFtOjMxMjgyNzY6MTc4MzIxODAxNTo1YWIzNmU0YzA1NzYyYWQyODBjNTk4MzExMjM4NWE1MTNhNWQ4MDc1MjkzNmM0ZjgzZmE5YTYyYTk4NDMzNzVk
+https://embed-api.clickhost.xyz/embed/stream/3128276?token=c3RyZWFtOjMxMjgyNzY6MTc4MzIyMDI0NDowNmZiM2UzMWVlMDY0MTAxYzNlMDMzOGUzMTliMGZkN2Y0ZDg4MjFjNmQ3ZWUwYzdhOGIwOGE5ZGZiMjJiOTli
 #EXTINF:-1 tvg-id="1318447" tvg-name="O Jogo do Predador" tvg-logo="https://image.tmdb.org/t/p/w500/mBcYPIubRBPTnTwWdj8OuEC1NHJ.jpg",O Jogo do Predador
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1318447
-https://embed-api.clickhost.xyz/embed/stream/3123924?token=c3RyZWFtOjMxMjM5MjQ6MTc4MzIxODAxNzowYzdlYjdiNDBlMmYwOGRlYzk2NjA0ODMwYjFmZDhmYjdiYzIwMjQ4OWVmYjY5NmYwZDAwMzQwMTljMjA1MzYy
+https://embed-api.clickhost.xyz/embed/stream/3123956?token=c3RyZWFtOjMxMjM5NTY6MTc4MzIyMDI0NToyNTM0MDhkZjg0OGQwMDQ5MTE0NzE4NmUwOTZiNzM5YmEyM2MwYjlkYzcxOWUwZDQ4NGU1ZTc2YWE2ZTljYjIw
 #EXTINF:-1 tvg-id="603" tvg-name="Matrix" tvg-logo="https://image.tmdb.org/t/p/w500/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",Matrix
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/603
-https://embed-api.clickhost.xyz/embed/stream/3145540?token=c3RyZWFtOjMxNDU1NDA6MTc4MzIxODAxNzpiYTQwOGE2ZDk5OWYyNDU5Y2I4MDEzYzlkOTk4N2I3NTNlZTA3ODFlNDFjMDZkNzUwNWM4YWQ1MTliNGQ2YzEx
+https://embed-api.clickhost.xyz/embed/stream/3145540?token=c3RyZWFtOjMxNDU1NDA6MTc4MzIyMDI0NDo2ZTNkOThkYzhmNjM1YjUyOTZmZjUzNzg5NmNlMWI2OGEzN2U5Nzg0MmJjMmQ5ZjM5NTMxZGU1ZTRiYzA4YjNm
 #EXTINF:-1 tvg-id="350" tvg-name="O Diabo Veste Prada" tvg-logo="https://image.tmdb.org/t/p/w500/fwaioeouE89lrcnckfluzIKMwSu.jpg",O Diabo Veste Prada
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/350
-https://embed-api.clickhost.xyz/embed/stream/3146024?token=c3RyZWFtOjMxNDYwMjQ6MTc4MzIxODAxNzpmOWM5ZjA3NzU1Y2U0Yjg2NDIyZDNlMWRmNGY3ZDNlNDVlMzdjYjk0NzQ5MDQzYzMzNzI0YmQ1OTk4MjZkZTcx
+https://embed-api.clickhost.xyz/embed/stream/3048111?token=c3RyZWFtOjMwNDgxMTE6MTc4MzIyMDI1OTpkMjhiY2JjMTAzMjMwNDAxNzI2NjMzNzFjYzk0NGJlYjc1MGRkNGEwYmVkY2QwN2UwMjlkMzdhNzFlZGJjZmMx
 #EXTINF:-1 tvg-id="10193" tvg-name="Toy Story 3" tvg-logo="https://image.tmdb.org/t/p/w500/rf67AeS9nP8DD7dZYbvhjEVoIBf.jpg",Toy Story 3
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/10193
-https://embed-api.clickhost.xyz/embed/stream/3147416?token=c3RyZWFtOjMxNDc0MTY6MTc4MzIxODAxNTpmYWZjNWYzMDM0M2UwN2QzYmE5MGQ2Y2E3ZThkZmJlYWYxNTk3MzFjZmNhMDFkOGM1MDRmZGE0ZDRmYWQ0N2Q2
+https://embed-api.clickhost.xyz/embed/stream/3147416?token=c3RyZWFtOjMxNDc0MTY6MTc4MzIyMDI0NDo5NjNlODcxYWRkNDdmOTNkNzhmZmFkZDkwN2RmYzAwYTg1NjA2NDI4NzMyNjZlZmY4M2E4ODIwYmRjMmI0NmE1
 #EXTINF:-1 tvg-id="634649" tvg-name="Homem-Aranha: Sem Volta Para Casa" tvg-logo="https://image.tmdb.org/t/p/w500/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",Homem-Aranha: Sem Volta Para Casa
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/634649
-https://embed-api.clickhost.xyz/embed/stream/3145031?token=c3RyZWFtOjMxNDUwMzE6MTc4MzIxODAxNzozZjY2ZDdkN2UxZjI2ZWM2ZjAwMzk4NDM1YjY3NTM4NjBlZjhjZDJjYTcwMWQyMGQwYTM5ZmM2YTUzMzBmY2Ez
+https://embed-api.clickhost.xyz/embed/stream/2651381?token=c3RyZWFtOjI2NTEzODE6MTc4MzIyMDI1NDo1NmQwYjI5NTZjNTNhZWIyZTJhMzdlYWU1YWMwYjllZWU0NjRlNjA4MjIyNWRmNWU1NjRhODJkYTM1MzMxNmUz
 #EXTINF:-1 tvg-id="840464" tvg-name="Destruição Final 2" tvg-logo="https://image.tmdb.org/t/p/w500/s6nzVekLSd1y0vGjLz8WPfC1Sau.jpg",Destruição Final 2
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/840464
-https://embed-api.clickhost.xyz/embed/stream/3124643?token=c3RyZWFtOjMxMjQ2NDM6MTc4MzIxODAxNTpmNjgzMzk4Y2M5ODZmNjI4ZGRlNDcyMzE3OTI0MmRhNWViNWUxMGRjMjlmZjFhNGI1MWVjZjk4YjMyNDk5NmYx
+https://embed-api.clickhost.xyz/embed/stream/2644115?token=c3RyZWFtOjI2NDQxMTU6MTc4MzIyMDI0NjpiNjJhNjIyNWZlZmQzMjU4YzYyOTZlNDBjNTgxYzkzZDhhNjAxZjRhMTkxMzkyMGQ2MDZjN2Y4MjkxOTM2MGI3
 #EXTINF:-1 tvg-id="27205" tvg-name="A Origem" tvg-logo="https://image.tmdb.org/t/p/w500/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",A Origem
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/27205
-https://embed-api.clickhost.xyz/embed/stream/3141651?token=c3RyZWFtOjMxNDE2NTE6MTc4MzIxODAxNTo2NWJlZTc2MzNjYmEyODM5MjVmYmFlOGEwNTM4M2NhNDI0NDc4YjcyZTViNzY2ZTYxYzBmNWMzNWM1YTZlMWU5
+https://embed-api.clickhost.xyz/embed/stream/3141651?token=c3RyZWFtOjMxNDE2NTE6MTc4MzIyMDI0NDpkNzZiNjBmY2UxOThiMmZjYWM3YmQ1ZDg1NjhiOWNmZGQ5OWRjMzZkNzA0N2ZhNGVhZTc3MWY1NzkzOWZhZjYz
 #EXTINF:-1 tvg-id="299536" tvg-name="Vingadores: Guerra Infinita" tvg-logo="https://image.tmdb.org/t/p/w500/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",Vingadores: Guerra Infinita
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/299536
-https://embed-api.clickhost.xyz/embed/stream/3147632?token=c3RyZWFtOjMxNDc2MzI6MTc4MzIxODAyNzo5NzEyMGVhYTJkNTFlMDA5ZGE2YWIyNGJkYzE3YThlNmQzNDRhMWZkYTIzMDJmNTY0MWU3NTRmMjIyZTU1M2Uw
+https://embed-api.clickhost.xyz/embed/stream/3147632?token=c3RyZWFtOjMxNDc2MzI6MTc4MzIyMDI2NTpjZWIyYzVkZTFjZjQxYmQwNjUxNTk2MDEzN2IxZDFiZGEyMjA5Nzg3NzU3NTcwZTQ3NWFhMjAzMzliY2YyZjU3
 #EXTINF:-1 tvg-id="1309083" tvg-name="Dolly: A Boneca Maldita" tvg-logo="https://image.tmdb.org/t/p/w500/vCeOJ9wpABXDSdqVnZ7jPbgtNUp.jpg",Dolly: A Boneca Maldita
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1309083
-https://embed-api.clickhost.xyz/embed/stream/4271175?token=c3RyZWFtOjQyNzExNzU6MTc4MzIxODAzMTo5NzZmOTNhMWJlZTg0MDdhNWZjNmI1NWI5MzVmMGQzNTc1N2FlZDFmOGQwZTkwYjQ5YWYyMjkxMzM4Zjk1OThk
+https://embed-api.clickhost.xyz/embed/stream/4271175?token=c3RyZWFtOjQyNzExNzU6MTc4MzIyMDI2ODpjODU0OTVlMDM4ZThkNzhkOGMyNzAyYWExZmUxN2M3NzczNzc1ZDg0ODBhOTIyODNlMzYwMGE3Mjc3ZGRiYWEw
 #EXTINF:-1 tvg-id="1398050" tvg-name="Tomando Rumo" tvg-logo="https://image.tmdb.org/t/p/w500/vFeNDnqH6X10MewHWQ5EnlHHRSF.jpg",Tomando Rumo
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1398050
-https://embed-api.clickhost.xyz/embed/stream/4271177?token=c3RyZWFtOjQyNzExNzc6MTc4MzIxODAyNzo4N2MwMGJhMTg4ODkxZjAzNDk3MDdjM2Y4MTdkMDYyZWQ2MTA1YjA0ODkxZjgyZmY1YjQ2NDUyYjQ5MjFlYmVj
+https://embed-api.clickhost.xyz/embed/stream/4271177?token=c3RyZWFtOjQyNzExNzc6MTc4MzIyMDI2NTpiMzM3MWQ3MDRmM2FmNTkyMTdiNDVhMjY3ZDI1MDQ3ZWJmMGE2YjQzYTJhOTJhNjA0MTVmMTRmOTFkZmNlODU2
 #EXTINF:-1 tvg-id="1091" tvg-name="O Enigma de Outro Mundo" tvg-logo="https://image.tmdb.org/t/p/w500/bazlgJAKWCBF7OllC3JtyJ2DV1n.jpg",O Enigma de Outro Mundo
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1091
-https://embed-api.clickhost.xyz/embed/stream/3146036?token=c3RyZWFtOjMxNDYwMzY6MTc4MzIxODAyNzpjY2M3NTI5MGVmM2YzNzE5M2VjY2ZkODViMzM1ZjdmYzFjZmFmYTlhZjkwNzM5ZGE5ZjQ0NzZhMTc2MWU5Zjc4
+https://embed-api.clickhost.xyz/embed/stream/3146036?token=c3RyZWFtOjMxNDYwMzY6MTc4MzIyMDI2NjpjMGE3YmUxOTliZjRmODFjZjliYzAyZjliOTNiOGIwNjE1MmNmNmYxMjI2YTcxNzJkYTVhNmVkZDhjNmQ3OGE0
 #EXTINF:-1 tvg-id="911345" tvg-name="Viking" tvg-logo="https://image.tmdb.org/t/p/w500/pkbG9xXZwwXAG8Bb8WXJweOlF1M.jpg",Viking
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/911345
-https://embed-api.clickhost.xyz/embed/stream/2651953?token=c3RyZWFtOjI2NTE5NTM6MTc4MzIxODAyODpkNWFhMDE3M2YwOTk2NTQzMDdlOGM3NTAwZDk0YzQ5OTg2MDY2NjAwYzEwZGVmOTg3NjNkMzNkNzFiMDU2NWFm
+https://embed-api.clickhost.xyz/embed/stream/2651953?token=c3RyZWFtOjI2NTE5NTM6MTc4MzIyMDI2Njo0NTc0YTQyZmNlZjg0MjFmNWMyOWUyNmQxZjUxMzEzZGFkNWI3Y2RiZDg1N2FkMjU2OTNjYTc0ZjVmMjkyODM5
 #EXTINF:-1 tvg-id="1368166" tvg-name="A Empregada" tvg-logo="https://image.tmdb.org/t/p/w500/qaqAdyuk8Fcgfsj19Cj3OpJ8hN.jpg",A Empregada
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1368166
-https://embed-api.clickhost.xyz/embed/stream/3125834?token=c3RyZWFtOjMxMjU4MzQ6MTc4MzIxODAyNzoyZmUxNzllYzc1Yjg2YzA4MjkyMzJiMGNkZTE1MTQ0YjM4MjFjNmZlN2MxMjA0YzBlOWFhODViZGM2MDRlNjY0
+https://embed-api.clickhost.xyz/embed/stream/3125834?token=c3RyZWFtOjMxMjU4MzQ6MTc4MzIyMDI2Njo1YTFhNGYwMjk5NzJlOTljZDJhNWQwNjUxNDU4MjZmZGVkZjJiMDU4ZTIzZWU0ZjM2MjkzNmEyMDIzNzJlY2Nl
 #EXTINF:-1 tvg-id="1242898" tvg-name="Predador: Terras Selvagens" tvg-logo="https://image.tmdb.org/t/p/w500/f3yLlUrJDdDL8d4nxywyotN45SL.jpg",Predador: Terras Selvagens
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1242898
-https://embed-api.clickhost.xyz/embed/stream/3125701?token=c3RyZWFtOjMxMjU3MDE6MTc4MzIxODAyNzowYWRiOGI0ODIzNGVkYjVkYjZjNjNkY2E3NTZjMzMzNzM4NWFiZGU2ZjdmODY3ZTJjZGE3Y2JiOTQ3YmEwOTY3
+https://embed-api.clickhost.xyz/embed/stream/3125701?token=c3RyZWFtOjMxMjU3MDE6MTc4MzIyMDI2Njo0YmVlZDgyZTFhNWZlMjJlNGIzNDE3YTRkMjUxYmM4NDBjMzc0ZjZmNzdhOTNkNTEyZGQ3Y2NlYjViYzYwY2M4
 #EXTINF:-1 tvg-id="122" tvg-name="O Senhor dos Anéis: O Retorno do Rei" tvg-logo="https://image.tmdb.org/t/p/w500/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",O Senhor dos Anéis: O Retorno do Rei
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/122
-https://embed-api.clickhost.xyz/embed/stream/3146338?token=c3RyZWFtOjMxNDYzMzg6MTc4MzIxODAzMDozMTY3MWZkNmQzNDU2NzM1N2Y0MWNiNzFkZDRlZDUyZTM3NjAwYjE3YTc0NWNkNWVhYWFjZWMwOWFlODAxODYy
+https://embed-api.clickhost.xyz/embed/stream/2652703?token=c3RyZWFtOjI2NTI3MDM6MTc4MzIyMDI2ODpkODYyZGM1OTliYzc4ODZkZjA2YzAwMWY4NGU1N2Q1ZGJlMWYyNzQyMjQ5Zjk3NjFlZmIzYTUxZDY4MTE0ZWUx
 #EXTINF:-1 tvg-id="1010581" tvg-name="Minha Culpa" tvg-logo="https://image.tmdb.org/t/p/w500/a59iGvF609yAZ5tfZUoQ3XipeQH.jpg",Minha Culpa
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1010581
-https://embed-api.clickhost.xyz/embed/stream/3034480?token=c3RyZWFtOjMwMzQ0ODA6MTc4MzIxODA0NzphOWU2NmRkMzQ1MWNlYWQyODNkNjM5NTZiMzcyZjFkMWUwNzAwNjExZDY4MWVlYzQzNzFhMTg1ZTZlYWRkNDA4
+https://embed-api.clickhost.xyz/embed/stream/3034480?token=c3RyZWFtOjMwMzQ0ODA6MTc4MzIyMDI3ODpmOGMzYWYyYTBmMTVkNWMwYmI1MDhhYjRjODZmZWY2ZjRkZWViNjlhNjRlMmJjMTAyMWUyYzM4NzJiZjY5MTNh
 #EXTINF:-1 tvg-id="1061474" tvg-name="Superman" tvg-logo="https://image.tmdb.org/t/p/w500/v8ezJI3qfEv4OYq8AWSp4inFIwE.jpg",Superman
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1061474
-https://embed-api.clickhost.xyz/embed/stream/3130234?token=c3RyZWFtOjMxMzAyMzQ6MTc4MzIxODAyODo5Y2E5ZjZhZWMzNGQ2ZTIwMTM4OGRlM2IxZWY5NjJjMDExYzhhYjIxNmY0NzQ5NmRiNGFkODdhYWNiNjM5ZTlh
+https://embed-api.clickhost.xyz/embed/stream/2643709?token=c3RyZWFtOjI2NDM3MDk6MTc4MzIyMDI3MTo2YjBjMGYxZjE1ZDMwOWVhNTc4ZWRmNzZlZmU4YTdmZDVlNzcwYmYwNDMzYWZjOWQxZGIyMTE5MDMwYzUyYWI4
 #EXTINF:-1 tvg-id="120" tvg-name="O Senhor dos Anéis: A Sociedade do Anel" tvg-logo="https://image.tmdb.org/t/p/w500/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg",O Senhor dos Anéis: A Sociedade do Anel
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/120
-https://embed-api.clickhost.xyz/embed/stream/3146336?token=c3RyZWFtOjMxNDYzMzY6MTc4MzIxODAzMDplMDExZGVjYTgxNDhjYzQ3MWI0ZWQ4ZDM1YjA4YzExODUxYTlkMmMyM2JhNjk2NmI2ZWQ3MmE5MzQ4MjI0YjM0
+https://embed-api.clickhost.xyz/embed/stream/2652701?token=c3RyZWFtOjI2NTI3MDE6MTc4MzIyMDI3MjpjMjUyNmZmZThlZDgzY2U3YmRiZjMwNTEzODA1OGRiMjcxMzVlNTFkNGUyNzhjMWFlNWVkNzlkNGUwZTBkODBj
 #EXTINF:-1 tvg-id="803796" tvg-name="Guerreiras do K-Pop" tvg-logo="https://image.tmdb.org/t/p/w500/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg",Guerreiras do K-Pop
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/803796
-https://embed-api.clickhost.xyz/embed/stream/3131646?token=c3RyZWFtOjMxMzE2NDY6MTc4MzIxODAzMDo0OWI4NWNmMWU4ZjQ4OTViZmVmMjJhMWIwYjcyZmMxOGU0N2YzYWZiZWIyNzkxNjA0OTA2MGJmNzEzZmIwNWU4
+https://embed-api.clickhost.xyz/embed/stream/3131646?token=c3RyZWFtOjMxMzE2NDY6MTc4MzIyMDI2NzplMmFlZDk1MDAzMGIyNTEyMWM5N2U3YTliNzI3Yjc5ZDM1NmZmM2ZjODRmNTU4MWNhZjkxNTRiNDNiNTI2NGI3
 #EXTINF:-1 tvg-id="1171145" tvg-name="Caminhos do Crime" tvg-logo="https://image.tmdb.org/t/p/w500/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",Caminhos do Crime
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1171145
-https://embed-api.clickhost.xyz/embed/stream/3124275?token=c3RyZWFtOjMxMjQyNzU6MTc4MzIxODAyODo2NzMyOWY4ZDI1NDM1OTVlZmNlOWNhYTFhMzg5YWNjMDA0NmIwZjI5YTJkOTk2YWM5MjI2NDA4NTQ0MzA4ODA2
+https://embed-api.clickhost.xyz/embed/stream/2644136?token=c3RyZWFtOjI2NDQxMzY6MTc4MzIyMDI3MTpkMzAzNjBlNDMzMWRkMTVjZTEyNWIzZmJjZjViMjIyNTI4NmY3NzMwMTM5Y2U5NGExMGE2YjZkNmNjOGQ1YWE3
 #EXTINF:-1 tvg-id="1290821" tvg-name="Missão Refúgio" tvg-logo="https://image.tmdb.org/t/p/w500/hSvhZRkbYD9crC4nqy8uCk9EdFH.jpg",Missão Refúgio
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1290821
-https://embed-api.clickhost.xyz/embed/stream/3123556?token=c3RyZWFtOjMxMjM1NTY6MTc4MzIxODAyODoyODY2OTQ5ODc5NjA3OWMzMDJkOTA3NTIwYTNkZWE4OGY0NjU2ZmUyYWM2OWNhOTEyOGMyNjQxZDQwNjQxMWVj
+https://embed-api.clickhost.xyz/embed/stream/3123556?token=c3RyZWFtOjMxMjM1NTY6MTc4MzIyMDI2NjoxMTFjNzFiNmFjOTg4ZDAzNzg5MGU4Mjg2ODAxMjlmMjhlMTU5OTM4ZDA0NTk1NWM4OThiNGYyMjgzYmNmZGI1
+#EXTINF:-1 tvg-id="863" tvg-name="Toy Story 2" tvg-logo="https://image.tmdb.org/t/p/w500/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg",Toy Story 2
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/863
+https://embed-api.clickhost.xyz/embed/stream/3141649?token=c3RyZWFtOjMxNDE2NDk6MTc4MzIyMDM0NTo2ODdkYjcyODU5ZTkxYjBjNWY3MGI0MTk1Y2VjMmViNGNmNzRiNmE2ZGJhNWI0N2Y5ZjRlZDI0MDM0NzE1YzBl
+#EXTINF:-1 tvg-id="1159559" tvg-name="Pânico 7" tvg-logo="https://image.tmdb.org/t/p/w500/rEevavl5vebCVEd5imx7D1k8nmV.jpg",Pânico 7
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1159559
+https://embed-api.clickhost.xyz/embed/stream/2643244?token=c3RyZWFtOjI2NDMyNDQ6MTc4MzIyMDM1MTpmMjkzYzNkZDgyMTc4MzU2OWQ2MmY4YTFjNDBiMTY1YjJhOTY2ZDljMmFiYWM5Y2I5ZTlmNDQwYzdkMDcwMTg0
+#EXTINF:-1 tvg-id="39254" tvg-name="Gigantes de Aço" tvg-logo="https://image.tmdb.org/t/p/w500/pp74uUjwQTknGPqNrerj4FvU0ce.jpg",Gigantes de Aço
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/39254
+https://embed-api.clickhost.xyz/embed/stream/3046613?token=c3RyZWFtOjMwNDY2MTM6MTc4MzIyMDM2MDplZGU2ZGE0MjE0NDBlNjlkOWYyZjVkYjMwODg3MWMzYjU5NzNmN2E0NzBkNmFlMmI4YzEzYTBhYmQ4MzE4NjVh
+#EXTINF:-1 tvg-id="238" tvg-name="O Poderoso Chefão" tvg-logo="https://image.tmdb.org/t/p/w500/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",O Poderoso Chefão
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/238
+https://embed-api.clickhost.xyz/embed/stream/2655592?token=c3RyZWFtOjI2NTU1OTI6MTc4MzIyMDM0NzphOWQ0ZTY0NTU3ZjYyYTgxZTFmMDIxODU0MjVkMDZmYWU3NjMwYzYyNWQwMzBhNTViOTIyNjRhZDEyM2MzYTQ3
+#EXTINF:-1 tvg-id="1246049" tvg-name="Drácula - Uma História de Amor Eterno" tvg-logo="https://image.tmdb.org/t/p/w500/eypGGvlpSiEpbeGkczyJCKboS4F.jpg",Drácula - Uma História de Amor Eterno
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1246049
+https://embed-api.clickhost.xyz/embed/stream/2641864?token=c3RyZWFtOjI2NDE4NjQ6MTc4MzIyMDM1NDo1OTdmMzViYWIwZDU5NmE4NjkzNzk0ZWJmYjk4NzA5YzBiZWI4YmU2YTUxOTQ1Yjc0M2M3ZDU4ZDkwNjY0MTk2
+#EXTINF:-1 tvg-id="1582770" tvg-name="Dhurandhar: A Vingança" tvg-logo="https://image.tmdb.org/t/p/w500/75u9zAPjWQ8zKMJOzWsATaUdM7x.jpg",Dhurandhar: A Vingança
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1582770
+https://embed-api.clickhost.xyz/embed/stream/2648918?token=c3RyZWFtOjI2NDg5MTg6MTc4MzIyMDM0Njo5YmY3NzE4NDJhY2UxY2I0ODJhYzVlNGZjNmExNzFjZDQxZWZlMTI4OGExMzE0Yjc0YzkwNmViZGUyNzIzNmYx
+#EXTINF:-1 tvg-id="550" tvg-name="Clube da Luta" tvg-logo="https://image.tmdb.org/t/p/w500/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",Clube da Luta
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/550
+https://embed-api.clickhost.xyz/embed/stream/3143998?token=c3RyZWFtOjMxNDM5OTg6MTc4MzIyMDM0NTo0M2IzMzRjMmNiOWYwNmVjMGUwNjZmZWIxMmI1OTQ2NGNkNTgyMjdiNjVlOWEwZDBkZmVjNTczODY4ZDIyN2Rm
+#EXTINF:-1 tvg-id="1064028" tvg-name="Alice: Subservience" tvg-logo="https://image.tmdb.org/t/p/w500/6EO0cjZt2vzAOmuDJZGED6GQmi4.jpg",Alice: Subservience
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1064028
+https://embed-api.clickhost.xyz/embed/stream/3043358?token=c3RyZWFtOjMwNDMzNTg6MTc4MzIyMDM1NDoxNjVjODFjNTVmZTc5OGE2ZDY2ZWI2NzNmZTE5YmNhNjg2MzUzNThmNTdhZjEzODAxZDU1OGQ5NzdiYjYyYzQ3
+#EXTINF:-1 tvg-id="671" tvg-name="Harry Potter e a Pedra Filosofal" tvg-logo="https://image.tmdb.org/t/p/w500/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",Harry Potter e a Pedra Filosofal
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/671
+https://embed-api.clickhost.xyz/embed/stream/3144973?token=c3RyZWFtOjMxNDQ5NzM6MTc4MzIyMDM0NzozZTM5YTczYmEzZGRhZTdhZDk0N2IwYjEwZjYxM2U2MmI4YTIxMmRhZDYzNzA0ODRiNzgwNTFmY2VlZjhlMDUw
+#EXTINF:-1 tvg-id="680" tvg-name="Pulp Fiction: Tempo de Violência" tvg-logo="https://image.tmdb.org/t/p/w500/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",Pulp Fiction: Tempo de Violência
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/680
+https://embed-api.clickhost.xyz/embed/stream/3146823?token=c3RyZWFtOjMxNDY4MjM6MTc4MzIyMDM0NTo2ZjQ0OTg4NzRlNTIyNTYzYTQ1MjYwM2U5MWQ1YjE2ZTc4NjY3YTdiNTQ0MzY3ZDgwZDQyNDhlNDZjODBiZjNj
+#EXTINF:-1 tvg-id="1480387" tvg-name="undertone" tvg-logo="https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",undertone
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1480387
+https://embed-api.clickhost.xyz/embed/stream/2644516?token=c3RyZWFtOjI2NDQ1MTY6MTc4MzIyMDM0NjphNmQzYTAzOTQ4YTliODFiNTQxMTA0YmMzYjcyMTU5NjczYzNmM2YzYTdkZmJkMDdlZTg4ZTM5ZjU0NjVmNzc0
+#EXTINF:-1 tvg-id="1325734" tvg-name="O Drama" tvg-logo="https://image.tmdb.org/t/p/w500/tM3hbeEwJZdQAjwwt5UjFn638AY.jpg",O Drama
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1325734
+https://embed-api.clickhost.xyz/embed/stream/3123484?token=c3RyZWFtOjMxMjM0ODQ6MTc4MzIyMDM3NDo2MzE4OTQzZDdlMDU5MThlNGQyNmZmM2JiNTc4ODI3ODUyZGUyYTNkYmE4YTc1NTViODgwZjYwZWY0Nzg2N2U1
+#EXTINF:-1 tvg-id="1234821" tvg-name="Jurassic World: Recomeço" tvg-logo="https://image.tmdb.org/t/p/w500/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg",Jurassic World: Recomeço
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1234821
+https://embed-api.clickhost.xyz/embed/stream/3130590?token=c3RyZWFtOjMxMzA1OTA6MTc4MzIyMDM3NjoxZWVmZjdlZWNjOGVlM2MxYWQ3ZTUzNjAxODU5YzlkYjUzZmM3ZTdhMjQzMWY3YTE0OTcyN2ZlYjM2NTJhNDBl
+#EXTINF:-1 tvg-id="1613798" tvg-name="Vingança Brutal" tvg-logo="https://image.tmdb.org/t/p/w500/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg",Vingança Brutal
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1613798
+https://embed-api.clickhost.xyz/embed/stream/3124017?token=c3RyZWFtOjMxMjQwMTc6MTc4MzIyMDM3NDo0ZDcyNzYyMjcwOWQxMjkxOGIyOThlZDU3ZGJiMzllMGFiZjRjZTI0NWNmMjE1YmNkZjhmZGUzODIwMTVlZjdl
+#EXTINF:-1 tvg-id="24428" tvg-name="Os Vingadores: The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/PtSapjHdDjlVcsqdEo0u7rDE6i.jpg",Os Vingadores: The Avengers
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/24428
+https://embed-api.clickhost.xyz/embed/stream/3146574?token=c3RyZWFtOjMxNDY1NzQ6MTc4MzIyMDM3NDoyMzM1N2NhY2M2N2JlODQzMGFhYzA0Mzg3N2E0NTYxMjg5NmMwMzdlMTkwNWQwYjQ3MDUyYzIyNzUzMGYyMmU4
+#EXTINF:-1 tvg-id="1265609" tvg-name="Máquina de Guerra" tvg-logo="https://image.tmdb.org/t/p/w500/48h40o6Q97hZaqH0g7bOiXOrImX.jpg",Máquina de Guerra
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1265609
+https://embed-api.clickhost.xyz/embed/stream/3125162?token=c3RyZWFtOjMxMjUxNjI6MTc4MzIyMDM3NDoxNTk0YjI3YjA1ZWIwYjQ3MWQyMGRkNjFkNWIyZGUzMjMxMGIyM2Q4MjBmOGFmOWRlZTZhZWQ2OTcxMTZjMTEz
+#EXTINF:-1 tvg-id="597" tvg-name="Titanic" tvg-logo="https://image.tmdb.org/t/p/w500/As0zX43h3w6kD2NS4uVHu9HKdEh.jpg",Titanic
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/597
+https://embed-api.clickhost.xyz/embed/stream/2662518?token=c3RyZWFtOjI2NjI1MTg6MTc4MzIyMDM4NDo4NTQ0M2ZlYWFhMzEwMTZmMjlhODBjMmQ2NDRmZTdjYmU2YmQxZTVmYzJjNTllZjQ5MjhmNDBiOTg0MTk3NjU2
+#EXTINF:-1 tvg-id="129" tvg-name="A Viagem de Chihiro" tvg-logo="https://image.tmdb.org/t/p/w500/ivHwYw3b03dFqRkcqaDSxjj2LQT.jpg",A Viagem de Chihiro
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/129
+https://embed-api.clickhost.xyz/embed/stream/3143081?token=c3RyZWFtOjMxNDMwODE6MTc4MzIyMDM3NDo5YzY1YzcxYmQzODM0MzE1YjM4YzhmNWE1NzVlNDdkYTBkN2I4M2YwZDBiMzljOTk1MTNiZDViYzQ5M2ZiMmZk
+#EXTINF:-1 tvg-id="76600" tvg-name="Avatar: O Caminho da Água" tvg-logo="https://image.tmdb.org/t/p/w500/hm6nONQOgVpKmRK5YUX9EqfJ0NH.jpg",Avatar: O Caminho da Água
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/76600
+https://embed-api.clickhost.xyz/embed/stream/3141506?token=c3RyZWFtOjMxNDE1MDY6MTc4MzIyMDM3NjpkMjg3YzZmNzdhYWU1ZTYyNjJkOTI4MTAxNzM0YTI3ZTllMGM3MTcyZWQxNzZkZDVmM2I0Y2RhMjZmMTcwMTU2
+#EXTINF:-1 tvg-id="361743" tvg-name="Top Gun: Maverick" tvg-logo="https://image.tmdb.org/t/p/w500/kPbuLGVSJHATkW9fX9L3h1wM0Pa.jpg",Top Gun: Maverick
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/361743
+https://embed-api.clickhost.xyz/embed/stream/3032344?token=c3RyZWFtOjMwMzIzNDQ6MTc4MzIyMDM4Mzo3YjdiNjk3ZDI2ZDhlOWJlMmJlZGZiMWU4NTExMzYwZDU2ODU0ZWQ0M2ZjNDVkZGZjOGQwMzZiZjQ5ODkzOTli
+#EXTINF:-1 tvg-id="1584215" tvg-name="Projeto Internato" tvg-logo="https://image.tmdb.org/t/p/w500/7Fpse7kK9AmNYHczkhQs2aQ7mUS.jpg",Projeto Internato
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1584215
+https://embed-api.clickhost.xyz/embed/stream/3148278?token=c3RyZWFtOjMxNDgyNzg6MTc4MzIyMDM3NTo4NWIwMjE0ZjVjNWU4ZDQ3MjcwMGU1YWUyYTRjNzM4M2I2NmVmZjY3NGI4MzI2YzIzODlhMmM4YjQ4NzQwNDk2
+#EXTINF:-1 tvg-id="533535" tvg-name="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w500/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",Deadpool & Wolverine
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/533535
+https://embed-api.clickhost.xyz/embed/stream/3137135?token=c3RyZWFtOjMxMzcxMzU6MTc4MzIyMDM3ODpkZjBkZWY0NWVlMDMwYzI0MGUxZjAxYzFmYTIwNWM1NDc3MTEyOTc5YWQyMzBlYWZjZjI5MTQ5OGE2ZjA2NWQ2
+#EXTINF:-1 tvg-id="1272837" tvg-name="Extermínio: O Templo dos Ossos" tvg-logo="https://image.tmdb.org/t/p/w500/tbECC1mMbytgaynCnBhgVPzCZcd.jpg",Extermínio: O Templo dos Ossos
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1272837
+https://embed-api.clickhost.xyz/embed/stream/3125625?token=c3RyZWFtOjMxMjU2MjU6MTc4MzIyMDM3NzpkOTcyMzc1NGM5Y2MyN2NiOThkM2E4MTBlZWU3YzVhNTExN2E5OWE5MTRkYWY0ZmY3M2RjMGQxN2ZhYTg3NTli
+#EXTINF:-1 tvg-id="496243" tvg-name="Parasita" tvg-logo="https://image.tmdb.org/t/p/w500/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",Parasita
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/496243
+https://embed-api.clickhost.xyz/embed/stream/2653901?token=c3RyZWFtOjI2NTM5MDE6MTc4MzIyMDQyMDo1YmM1NjI0MDhjOTU2ZjIwYzY1MTdiNmU0YzFiNDI5MjJlNGQ0MjcyNDJkMDU5M2FjZjA3ZjVlNTdlNTA3ODU4
+#EXTINF:-1 tvg-id="857" tvg-name="O Resgate do Soldado Ryan" tvg-logo="https://image.tmdb.org/t/p/w500/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",O Resgate do Soldado Ryan
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/857
+https://embed-api.clickhost.xyz/embed/stream/3029233?token=c3RyZWFtOjMwMjkyMzM6MTc4MzIyMDQzNDozMDViOTk5NGZkODAyOGY4ZGIyOTc5Mzk1YWFlN2M1ODUxODhiM2M0ZDE0NTcyZjA4ZGQ2NDU4ZTFjMTZhZmUz
+#EXTINF:-1 tvg-id="1184918" tvg-name="Robô Selvagem" tvg-logo="https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",Robô Selvagem
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1184918
+https://embed-api.clickhost.xyz/embed/stream/3136774?token=c3RyZWFtOjMxMzY3NzQ6MTc4MzIyMDQwNDpkODkzZmZjOTQ4MzhjOGM1M2Q1ZGViMDJjYTRhZjIwMThiMGExOGQwOWQzZjI4ZWY4ZmZiZTc2M2I1ZmE5MDYy
+#EXTINF:-1 tvg-id="1156594" tvg-name="Nossa Culpa" tvg-logo="https://image.tmdb.org/t/p/w500/tPq8xqhsTYZzUGwMKuksa0eyeGZ.jpg",Nossa Culpa
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1156594
+https://embed-api.clickhost.xyz/embed/stream/3128782?token=c3RyZWFtOjMxMjg3ODI6MTc4MzIyMDQwNDozMTJmZTM1M2VlZjAxNmNhYzgyODE3ODg1M2UxMzdkODFhODJkZjc4NDgwNjcwNGIyM2RjMmY1MGQ2MjQ1MzVk
+#EXTINF:-1 tvg-id="808" tvg-name="Shrek" tvg-logo="https://image.tmdb.org/t/p/w500/wxeqfC221YMptRRdzxlijAh7q8l.jpg",Shrek
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/808
+https://embed-api.clickhost.xyz/embed/stream/2658951?token=c3RyZWFtOjI2NTg5NTE6MTc4MzIyMDQyMDoyMTJmODA3NTQ1ZTgxZGNhMjJiNzczOWM3ZDNmNTkyZDE2OTdjZmZkMzJkOTYyYmU4MDNmZGM5MTg3MjVmZTBl
+#EXTINF:-1 tvg-id="1233413" tvg-name="Pecadores" tvg-logo="https://image.tmdb.org/t/p/w500/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",Pecadores
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1233413
+https://embed-api.clickhost.xyz/embed/stream/3132419?token=c3RyZWFtOjMxMzI0MTk6MTc4MzIyMDQxNjpjZTA3ZWE5NTBjODAwZDRkMDBhYzdmNzBkYTljMmFmNmIzMWJjYjM2YTA2N2YxMGFhODYxMDkyOTM4Mjk2YmM3
+#EXTINF:-1 tvg-id="1198994" tvg-name="Socorro!" tvg-logo="https://image.tmdb.org/t/p/w500/rpU5DGrTVdqcygZBB9npt1WMFch.jpg",Socorro!
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1198994
+https://embed-api.clickhost.xyz/embed/stream/3123756?token=c3RyZWFtOjMxMjM3NTY6MTc4MzIyMDQxNjplZmFlZDUwODFhNzAyNjc0MzM3NDM4YTMyMTMzMTU2Y2E5ZjdmODM5OTA3ODQ5Mjk2OGRiZDBlODQ2ZWUwMGE1
+#EXTINF:-1 tvg-id="950387" tvg-name="Um Filme Minecraft" tvg-logo="https://image.tmdb.org/t/p/w500/a227F8PnXDABR1JJTuasmJmxEhf.jpg",Um Filme Minecraft
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/950387
+https://embed-api.clickhost.xyz/embed/stream/2643591?token=c3RyZWFtOjI2NDM1OTE6MTc4MzIyMDQyNTpkMTBlMTE4MDEyMTk0MTAzZWRkMGJhMTU3NzRhZGFkZmQ3NTkyZTU4OTNkODZkZjQwN2QwM2RkMzRmZmRjZmM0
+#EXTINF:-1 tvg-id="335984" tvg-name="Blade Runner 2049" tvg-logo="https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",Blade Runner 2049
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/335984
+https://embed-api.clickhost.xyz/embed/stream/3143746?token=c3RyZWFtOjMxNDM3NDY6MTc4MzIyMDQwNDo0MGEzMmFmYzRlZmQ1NDE1YzQwZjQ5Y2JiYTk1ODUwODE5YzE1MjJhMTgxMzIyZDRhNzljNWFhYjI3NjllM2Iy
+#EXTINF:-1 tvg-id="1358005" tvg-name="Paixão de Escritório" tvg-logo="https://image.tmdb.org/t/p/w500/kN86jEhf5xeHTPwlVeZ1ZAW861r.jpg",Paixão de Escritório
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1358005
+https://embed-api.clickhost.xyz/embed/stream/3123383?token=c3RyZWFtOjMxMjMzODM6MTc4MzIyMDQ0NjpiMTg1ZTMxMjA5ZmExNmJkYjM4MDZhZmQ3ZTFlZjc0Y2U3MzkzYTE0MGFlMjhiZDM2ODEwZDczZjEyMmM1NWZm
+#EXTINF:-1 tvg-id="121" tvg-name="O Senhor dos Anéis: As Duas Torres" tvg-logo="https://image.tmdb.org/t/p/w500/mCs8vxvScCqVM3YFMQIdbrdFEhu.jpg",O Senhor dos Anéis: As Duas Torres
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/121
+https://embed-api.clickhost.xyz/embed/stream/2652702?token=c3RyZWFtOjI2NTI3MDI6MTc4MzIyMDQ0Nzo2Y2Y1ZWU3YWQ3MDAwNzc4ZTE5MjkyMDRkMDZkODA2OTIxM2ExODEzNjEzOTBiZjgyN2M3OWVhODBiYmQ2MTYx
+#EXTINF:-1 tvg-id="22" tvg-name="Piratas do Caribe: A Maldição do Pérola Negra" tvg-logo="https://image.tmdb.org/t/p/w500/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",Piratas do Caribe: A Maldição do Pérola Negra
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/22
+https://embed-api.clickhost.xyz/embed/stream/3026478?token=c3RyZWFtOjMwMjY0Nzg6MTc4MzIyMDQ1MjozYmY0Mzg4OTY0ZjEzMGI0OTQ5ZTI4MTVmMjk2ZmI1ZmVkNGNmOTVkMDc2MGNkOTFjYjJjMjdkNTU5ODk3MjUz
+#EXTINF:-1 tvg-id="1390300" tvg-name="Por Cima do seu Cadáver" tvg-logo="https://image.tmdb.org/t/p/w500/i9tMHmhq8m1c4xOJofn7lqzXDvj.jpg",Por Cima do seu Cadáver
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1390300
+https://embed-api.clickhost.xyz/embed/stream/3148293?token=c3RyZWFtOjMxNDgyOTM6MTc4MzIyMDQ0MjpiMDZiZDhkYWM0NzhmYmJmOTQxNmRmOWE1OWQzNDYzMTU2YTI0MTgxNTFmYzA2ZmVlZjM2YTI2NDMxYjUyZDFm
+#EXTINF:-1 tvg-id="1630423" tvg-name="Meu Querido Assassino" tvg-logo="https://image.tmdb.org/t/p/w500/9ZfPvLEx1xcuTkfAtrVyIbA5Vaw.jpg",Meu Querido Assassino
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1630423
+https://embed-api.clickhost.xyz/embed/stream/3123751?token=c3RyZWFtOjMxMjM3NTE6MTc4MzIyMDQ0NjpjM2RlYzhlZGQ4NDAzNTU2NzI5N2VlN2EyOTU4YjEwNjFlOTIyMTUxMmU2MDQ2MmRiNjZkYjRhYjQ5MWUxYjEw
+#EXTINF:-1 tvg-id="235271" tvg-name="A Vida Secreta de Zoe" tvg-logo="https://image.tmdb.org/t/p/w500/hvPGpjm1rIvIM0VoNkMXbYf9BwG.jpg",A Vida Secreta de Zoe
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/235271
+https://embed-api.clickhost.xyz/embed/stream/3143093?token=c3RyZWFtOjMxNDMwOTM6MTc4MzIyMDQ0MjoxY2I2ZGQ2Njk3ZTU1MGE2NmRjMjlkM2NlOWZjN2JhMjU5MWMxMDU1YWI3NmIwNjljNDc3ZmQ1Y2U5MzkwZTUx
+#EXTINF:-1 tvg-id="911430" tvg-name="F1: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg",F1: O Filme
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/911430
+https://embed-api.clickhost.xyz/embed/stream/3130194?token=c3RyZWFtOjMxMzAxOTQ6MTc4MzIyMDQ0NjowNDE4NjcyMjQyZDUyOGRmNzAyMzY2MjYxMTcwNmUwYmY5YzIxYTZkYzk4OWUwZGY0MjVhM2NlNzRiNWJlNDcy
+#EXTINF:-1 tvg-id="19995" tvg-name="Avatar" tvg-logo="https://image.tmdb.org/t/p/w500/lRRMQhlOLM9xgvjKKFndOmptqKR.jpg",Avatar
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/19995
+https://embed-api.clickhost.xyz/embed/stream/3143607?token=c3RyZWFtOjMxNDM2MDc6MTc4MzIyMDQ0NjowZTNiMzk4YTY0YWY2ODQ4NGYyODA2MjZlNmYxN2M5YmI4YjA5YTJjZDNlOWJiOTY3NmRkOWVlMjRiOTdjMjM4
+#EXTINF:-1 tvg-id="933260" tvg-name="A Substância" tvg-logo="https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",A Substância
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/933260
+https://embed-api.clickhost.xyz/embed/stream/3135345?token=c3RyZWFtOjMxMzUzNDU6MTc4MzIyMDQ0Mjo5YjUzOGI3MzdmZmMzM2U2ZThjYTkzYTVhM2VkMWM2ZGVlY2FhNTVlYmZhMWNiZTNlOTljMTYwMDZiYzI1ZjM1
+#EXTINF:-1 tvg-id="1022789" tvg-name="Divertida Mente 2" tvg-logo="https://image.tmdb.org/t/p/w500/lHKNS35r4RTa9GO72vdadMLxoiV.jpg",Divertida Mente 2
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1022789
+https://embed-api.clickhost.xyz/embed/stream/3138108?token=c3RyZWFtOjMxMzgxMDg6MTc4MzIyMDQ0Njo4NjU5NGQyNjQ0NGFiNTNiYTEzMjQ4MGU5NzZlN2NiZWY4YjBjZTg2NTdmYWJkY2M1NzM2OTMwNDJkNThkOGZl
+#EXTINF:-1 tvg-id="254128" tvg-name="Terremoto: A Falha de San Andreas" tvg-logo="https://image.tmdb.org/t/p/w500/wVp2zu88NMWpGluqW9eGQbwLWi.jpg",Terremoto: A Falha de San Andreas
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/254128
+https://embed-api.clickhost.xyz/embed/stream/3147334?token=c3RyZWFtOjMxNDczMzQ6MTc4MzIyMDQ0Mjo1NTQwYzMzZGI1MTlkYzUzYzM0YjE4YTQ3MzVjZGU2MDkyNDU2NDhlNjJmNmYzYjYxOGUzOWE3ODlkNTkyOGY1
+#EXTINF:-1 tvg-id="575265" tvg-name="Missão: Impossível - O Acerto Final" tvg-logo="https://image.tmdb.org/t/p/w500/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg",Missão: Impossível - O Acerto Final
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/575265
+https://embed-api.clickhost.xyz/embed/stream/2643650?token=c3RyZWFtOjI2NDM2NTA6MTc4MzIyMDQ1NDphNGFlZGM0ZjI3OTBhM2U2YWZhM2VlZTU1Nzc4OTcxYjgwODEwZjc5MjkyMzY1ZGQ1MmY3NDYzMGQxMDZmOTgz
+#EXTINF:-1 tvg-id="519182" tvg-name="Meu Malvado Favorito 4" tvg-logo="https://image.tmdb.org/t/p/w500/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",Meu Malvado Favorito 4
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/519182
+https://embed-api.clickhost.xyz/embed/stream/3138096?token=c3RyZWFtOjMxMzgwOTY6MTc4MzIyMDQ0MjpmZTFmNGEyMjZhNTZmN2UxZjcxMjVjYWFkOGQ2NmI0ZjBkMWE5Y2Q3NjE4MzlmOWNjY2VlYTM1OWQ1ZTY2N2E0
+#EXTINF:-1 tvg-id="569094" tvg-name="Homem-Aranha: Através do Aranhaverso" tvg-logo="https://image.tmdb.org/t/p/w500/fBS6y0LYX4kU6pPSBYMdQy6SIHX.jpg",Homem-Aranha: Através do Aranhaverso
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/569094
+https://embed-api.clickhost.xyz/embed/stream/3025816?token=c3RyZWFtOjMwMjU4MTY6MTc4MzIyMDQ1MTphMmQ1MjA0MzcwZTQ3YzgwN2YyNGJhMDQwMTU1NDc2MzU2NDY2MWRkYzQ3NGEwNDE3MDQ2ODExOTg2YjZmODUy
+#EXTINF:-1 tvg-id="324857" tvg-name="Homem-Aranha: No Aranhaverso" tvg-logo="https://image.tmdb.org/t/p/w500/gte2cJ3mtc2I8hZyXwRTzyclKuC.jpg",Homem-Aranha: No Aranhaverso
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/324857
+https://embed-api.clickhost.xyz/embed/stream/3145026?token=c3RyZWFtOjMxNDUwMjY6MTc4MzIyMDQ0Mjo0MTZlYTg4M2Y2YzMyM2E0ZTRmOGYyZTdkZTA5YmYzNmE0M2E4MjIyYTVkZTQyNTY1ZDdhMWIzODBhNzU4YzFk
+#EXTINF:-1 tvg-id="1167307" tvg-name="Davi: Nasce Um Rei" tvg-logo="https://image.tmdb.org/t/p/w500/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg",Davi: Nasce Um Rei
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1167307
+https://embed-api.clickhost.xyz/embed/stream/3126179?token=c3RyZWFtOjMxMjYxNzk6MTc4MzIyMDQ0NTo2NGQ2NDFiN2FkNTNlNzkxYTA4NGY2NzI5ZTNiOTllMGVkODQ0OTkyODc0MGFjMGZhMjVlMDY5ZGU5YTIxZDJh
+#EXTINF:-1 tvg-id="980477" tvg-name="Ne Zha 2: O Renascer da Alma" tvg-logo="https://image.tmdb.org/t/p/w500/wJnb4ikygiVuYLuvj4b4Jpvudn1.jpg",Ne Zha 2: O Renascer da Alma
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/980477
+https://embed-api.clickhost.xyz/embed/stream/3126621?token=c3RyZWFtOjMxMjY2MjE6MTc4MzIyMDQ3NjplY2NjZjMyZjhjOTViYmZlZTMwNjQ5MjVhYzJkNjRhNDQ3YzhmMjBkOWEyZDI2OGEwMzBhODM4YWFjNWYxYzJm
+#EXTINF:-1 tvg-id="14836" tvg-name="Coraline e o Mundo Secreto" tvg-logo="https://image.tmdb.org/t/p/w500/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg",Coraline e o Mundo Secreto
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/14836
+https://embed-api.clickhost.xyz/embed/stream/3027358?token=c3RyZWFtOjMwMjczNTg6MTc4MzIyMDQ5MTpmYzEyYjcwNTA4MmFjMmI0YWE5OWZiZWMwMmE2NDY3NjFhMWM1Y2Y1MTFhYzM2ZTRkYmFhMDgxNTExYWJhMjFl
+#EXTINF:-1 tvg-id="240" tvg-name="O Poderoso Chefão: Parte II" tvg-logo="https://image.tmdb.org/t/p/w500/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",O Poderoso Chefão: Parte II
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/240
+https://embed-api.clickhost.xyz/embed/stream/2655593?token=c3RyZWFtOjI2NTU1OTM6MTc4MzIyMDQ4MDoyMzU5MGQ1N2I2MjM0MmJlZTA0OTQ3ODQ1MDQ0NWIwN2MwODE3YTQzYWU5YjRkNmVlMTVmYmViMzhhNzdhNzIx
+#EXTINF:-1 tvg-id="1294203" tvg-name="Minha Culpa: Londres" tvg-logo="https://image.tmdb.org/t/p/w500/grM1am6mYzxA84xDzTk23FQU7dG.jpg",Minha Culpa: Londres
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1294203
+https://embed-api.clickhost.xyz/embed/stream/3134658?token=c3RyZWFtOjMxMzQ2NTg6MTc4MzIyMDQ4MTpkYmFlMDg3ODc3Yjk0MjQ3NmQxM2ZjZTlkMjIzNmI1ODU2MzYyZjJlNDA3MjdkODY0ZWNiYWIzNjhkNmFjMzBk
+#EXTINF:-1 tvg-id="1662317" tvg-name="Colisão: Acidente ou Homicídio?" tvg-logo="https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg",Colisão: Acidente ou Homicídio?
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1662317
+https://embed-api.clickhost.xyz/embed/stream/3123619?token=c3RyZWFtOjMxMjM2MTk6MTc4MzIyMDQ3Nzo4ZDk2ODM2OWM1NGNmMWEyN2YyM2YzOGZjYmM4MjU4NjFhOGM0NTFiNjViYzVjOTQ2N2VlZmExODc3MWE5ZmM1
+#EXTINF:-1 tvg-id="4935" tvg-name="O Castelo Animado" tvg-logo="https://image.tmdb.org/t/p/w500/1hTfaEWktMJPxCk5nZNtK7F86C9.jpg",O Castelo Animado
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/4935
+https://embed-api.clickhost.xyz/embed/stream/3145961?token=c3RyZWFtOjMxNDU5NjE6MTc4MzIyMDQ3NzpiNzQ2ZjRhZmI5NzM1Mzg4MmRkNGQyYTkyZDM2N2M2MjUxZDkwMzU0MmUwYTJjZTk4ZWM2NTliYWMyZWQ5ODU5
+#EXTINF:-1 tvg-id="497582" tvg-name="Enola Holmes" tvg-logo="https://image.tmdb.org/t/p/w500/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",Enola Holmes
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/497582
+https://embed-api.clickhost.xyz/embed/stream/3144578?token=c3RyZWFtOjMxNDQ1Nzg6MTc4MzIyMDQ3NzphZTU0ZmFlZTQ2NzMzM2M1MzRhY2YyNTAyOTY4YzA1ZjJlOTgwZjk4OGQ1MTI3NjBjODFmMzA5NjJiNTYwMDIx
+#EXTINF:-1 tvg-id="497" tvg-name="À Espera de um Milagre" tvg-logo="https://image.tmdb.org/t/p/w500/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",À Espera de um Milagre
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/497
+https://embed-api.clickhost.xyz/embed/stream/3147711?token=c3RyZWFtOjMxNDc3MTE6MTc4MzIyMDQ3Nzo5MmU0N2YwMWIwNzYzZDY3NmFjMDc5MmFlYmI3MTVhZGM4OGRiNjFiNzRlYjI4MjY4ZTNiZDAwY2IxMTFiYzhm
+#EXTINF:-1 tvg-id="98" tvg-name="Gladiador" tvg-logo="https://image.tmdb.org/t/p/w500/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",Gladiador
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/98
+https://embed-api.clickhost.xyz/embed/stream/2651351?token=c3RyZWFtOjI2NTEzNTE6MTc4MzIyMDQ4MDphMTE1ZWIzNzI0YTZmYjkwOWMxYTAxMjNkZjcyYjM0YmIwZGYxODcwZjI4YTExMjNkOWJjYjNhOWUyN2UxODE2
+#EXTINF:-1 tvg-id="11" tvg-name="Guerra nas Estrelas" tvg-logo="https://image.tmdb.org/t/p/w500/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",Guerra nas Estrelas
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/11
+https://embed-api.clickhost.xyz/embed/stream/3147238?token=c3RyZWFtOjMxNDcyMzg6MTc4MzIyMDQ4MDowZWI5YzFhNTMwZTAyMzg0YzcxNTllNTE5Y2RlMzI4MWJiMjQ5ZWZiMGNjNDc5MmEyODA3M2Q0MDJmYTgyYWEz
+#EXTINF:-1 tvg-id="807" tvg-name="Seven - Os Sete Crimes Capitais" tvg-logo="https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",Seven - Os Sete Crimes Capitais
+#EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/807
+https://embed-api.clickhost.xyz/embed/stream/3147097?token=c3RyZWFtOjMxNDcwOTc6MTc4MzIyMDQ3NzphNzg2NTViNWQ0MWE5MDA4OGU0NGQyZjdiYTAxYTVlZTQ5MzQ4ZmVhYjE5YTFjNTRhYjM4MDExM2ZmMDcxMTQ3
