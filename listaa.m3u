@@ -10,7 +10,7 @@ https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=936075&srv=31233
 #EXTINF:-1 tvg-id="1301421" tvg-name="As Ovelhas Detetives" tvg-logo="https://image.tmdb.org/t/p/w500/crW4rarCRUVRSRFy3Bufw8Mwf8l.jpg",As Ovelhas Detetives
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1301421&srv=4271114
 #EXTINF:-1 tvg-id="931285" tvg-name="Mortal Kombat 2" tvg-logo="https://image.tmdb.org/t/p/w500/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",Mortal Kombat 2
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=931285&srv=3423350
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=931285&srv=2644246
 #EXTINF:-1 tvg-id="1202033" tvg-name="Enola Holmes 3" tvg-logo="https://image.tmdb.org/t/p/w500/dxqsd2iYZGzZafGxFWbHaDFACMp.jpg",Enola Holmes 3
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1202033&srv=5387551
 #EXTINF:-1 tvg-id="11012" tvg-name="Perdas e Danos" tvg-logo="https://image.tmdb.org/t/p/w500/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg",Perdas e Danos
@@ -22,13 +22,13 @@ https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=278&srv=2656055
 #EXTINF:-1 tvg-id="301528" tvg-name="Toy Story 4" tvg-logo="https://image.tmdb.org/t/p/w500/csiyO6q8rR74pfgJDjwINzhoick.jpg",Toy Story 4
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=301528&srv=3147417
 #EXTINF:-1 tvg-id="83533" tvg-name="Avatar: Fogo e Cinzas" tvg-logo="https://image.tmdb.org/t/p/w500/3almrQT8GnrDjnQeWotdExjJhZm.jpg",Avatar: Fogo e Cinzas
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=83533&srv=2642727
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=83533&srv=3124252
 #EXTINF:-1 tvg-id="1397385" tvg-name="Little Brother" tvg-logo="https://image.tmdb.org/t/p/w500/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",Little Brother
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1397385&srv=5086715
 #EXTINF:-1 tvg-id="1304313" tvg-name="Maldição da Múmia" tvg-logo="https://image.tmdb.org/t/p/w500/ubN87iHY2DyWtwU2JHS0SQ1KqJu.jpg",Maldição da Múmia
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1304313&srv=3123588
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1304313&srv=2644236
 #EXTINF:-1 tvg-id="976912" tvg-name="O Limite do Prazer" tvg-logo="https://image.tmdb.org/t/p/w500/fmLQaEPC9uRCbjPs1NI4S90qimH.jpg",O Limite do Prazer
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=976912&srv=3129660
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=976912&srv=2664382
 #EXTINF:-1 tvg-id="614945" tvg-name="Mensagens para Isabelle" tvg-logo="https://image.tmdb.org/t/p/w500/nf7N5j407xPTOEPG0feJJbKFNRd.jpg",Mensagens para Isabelle
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=614945&srv=3423320
 #EXTINF:-1 tvg-id="1007757" tvg-name="Como Mágica" tvg-logo="https://image.tmdb.org/t/p/w500/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg",Como Mágica
@@ -38,7 +38,7 @@ https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1327819&srv=3123
 #EXTINF:-1 tvg-id="862" tvg-name="Toy Story: Um Mundo de Aventuras" tvg-logo="https://image.tmdb.org/t/p/w500/686F0CEPmI4ZXjFbWtIHQOBwnfI.jpg",Toy Story: Um Mundo de Aventuras
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=862&srv=3141648
 #EXTINF:-1 tvg-id="1439930" tvg-name="O Justiceiro: Uma Última Morte" tvg-logo="https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",O Justiceiro: Uma Última Morte
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1439930&srv=3123666
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1439930&srv=2644247
 #EXTINF:-1 tvg-id="1122573" tvg-name="Na Zona Cinzenta" tvg-logo="https://image.tmdb.org/t/p/w500/h1eUeDH35Tdvsfu7Ouefa7CPwLa.jpg",Na Zona Cinzenta
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1122573&srv=3041847
 #EXTINF:-1 tvg-id="1477317" tvg-name="Sua Culpa: Londres" tvg-logo="https://image.tmdb.org/t/p/w500/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",Sua Culpa: Londres
@@ -54,19 +54,19 @@ https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1368337&srv=4014
 #EXTINF:-1 tvg-id="157336" tvg-name="Interestelar" tvg-logo="https://image.tmdb.org/t/p/w500/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg",Interestelar
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=157336&srv=3141827
 #EXTINF:-1 tvg-id="1380291" tvg-name="Jack Ryan de Tom Clancy: Guerra Fantasma" tvg-logo="https://image.tmdb.org/t/p/w500/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",Jack Ryan de Tom Clancy: Guerra Fantasma
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1380291&srv=3123475
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1380291&srv=2644267
 #EXTINF:-1 tvg-id="1125257" tvg-name="Uma Sexta-Feira Mais Louca Ainda" tvg-logo="https://image.tmdb.org/t/p/w500/zAeOSpIY5FfaF4RhuZgUWyWF0VH.jpg",Uma Sexta-Feira Mais Louca Ainda
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1125257&srv=2641442
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1125257&srv=3128276
 #EXTINF:-1 tvg-id="755898" tvg-name="A Guerra dos Mundos" tvg-logo="https://image.tmdb.org/t/p/w500/yY5CbfXBxsPvYi0TzmaCP7uunnn.jpg",A Guerra dos Mundos
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=755898&srv=3130327
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=755898&srv=2643729
 #EXTINF:-1 tvg-id="1084187" tvg-name="Lindas e Letais" tvg-logo="https://image.tmdb.org/t/p/w500/3PdG3VE95F7fcawJrAfm9bdUvMy.jpg",Lindas e Letais
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1084187&srv=3124669
 #EXTINF:-1 tvg-id="1430077" tvg-name="Hokum: O Pesadelo da Bruxa" tvg-logo="https://image.tmdb.org/t/p/w500/fn5QNtG3LLXC3e7ZTQDYP92kFYc.jpg",Hokum: O Pesadelo da Bruxa
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1430077&srv=3148332
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1430077&srv=2648921
 #EXTINF:-1 tvg-id="1297842" tvg-name="Um Cabra Bom de Bola" tvg-logo="https://image.tmdb.org/t/p/w500/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",Um Cabra Bom de Bola
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1297842&srv=3124699
 #EXTINF:-1 tvg-id="1318447" tvg-name="O Jogo do Predador" tvg-logo="https://image.tmdb.org/t/p/w500/mBcYPIubRBPTnTwWdj8OuEC1NHJ.jpg",O Jogo do Predador
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1318447&srv=3123956
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1318447&srv=2644226
 #EXTINF:-1 tvg-id="603" tvg-name="Matrix" tvg-logo="https://image.tmdb.org/t/p/w500/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",Matrix
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=603&srv=3145540
 #EXTINF:-1 tvg-id="350" tvg-name="O Diabo Veste Prada" tvg-logo="https://image.tmdb.org/t/p/w500/fwaioeouE89lrcnckfluzIKMwSu.jpg",O Diabo Veste Prada
@@ -104,4 +104,644 @@ https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=120&srv=2652701
 #EXTINF:-1 tvg-id="803796" tvg-name="Guerreiras do K-Pop" tvg-logo="https://image.tmdb.org/t/p/w500/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg",Guerreiras do K-Pop
 https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=803796&srv=2643675
 #EXTINF:-1 tvg-id="1171145" tvg-name="Caminhos do Crime" tvg-logo="https://image.tmdb.org/t/p/w500/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",Caminhos do Crime
-https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1171145&srv=2644136
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1171145&srv=3124298
+#EXTINF:-1 tvg-id="1064028" tvg-name="Alice: Subservience" tvg-logo="https://image.tmdb.org/t/p/w500/6EO0cjZt2vzAOmuDJZGED6GQmi4.jpg",Alice: Subservience
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1064028&srv=3043358
+#EXTINF:-1 tvg-id="129" tvg-name="A Viagem de Chihiro" tvg-logo="https://image.tmdb.org/t/p/w500/ivHwYw3b03dFqRkcqaDSxjj2LQT.jpg",A Viagem de Chihiro
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=129&srv=3143081
+#EXTINF:-1 tvg-id="238" tvg-name="O Poderoso Chefão" tvg-logo="https://image.tmdb.org/t/p/w500/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",O Poderoso Chefão
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=238&srv=2655592
+#EXTINF:-1 tvg-id="680" tvg-name="Pulp Fiction: Tempo de Violência" tvg-logo="https://image.tmdb.org/t/p/w500/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",Pulp Fiction: Tempo de Violência
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=680&srv=3146823
+#EXTINF:-1 tvg-id="671" tvg-name="Harry Potter e a Pedra Filosofal" tvg-logo="https://image.tmdb.org/t/p/w500/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",Harry Potter e a Pedra Filosofal
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=671&srv=3144973
+#EXTINF:-1 tvg-id="39254" tvg-name="Gigantes de Aço" tvg-logo="https://image.tmdb.org/t/p/w500/pp74uUjwQTknGPqNrerj4FvU0ce.jpg",Gigantes de Aço
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=39254&srv=3046613
+#EXTINF:-1 tvg-id="76600" tvg-name="Avatar: O Caminho da Água" tvg-logo="https://image.tmdb.org/t/p/w500/hm6nONQOgVpKmRK5YUX9EqfJ0NH.jpg",Avatar: O Caminho da Água
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=76600&srv=3141506
+#EXTINF:-1 tvg-id="1159559" tvg-name="Pânico 7" tvg-logo="https://image.tmdb.org/t/p/w500/rEevavl5vebCVEd5imx7D1k8nmV.jpg",Pânico 7
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1159559&srv=3124625
+#EXTINF:-1 tvg-id="597" tvg-name="Titanic" tvg-logo="https://image.tmdb.org/t/p/w500/As0zX43h3w6kD2NS4uVHu9HKdEh.jpg",Titanic
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=597&srv=2662518
+#EXTINF:-1 tvg-id="550" tvg-name="Clube da Luta" tvg-logo="https://image.tmdb.org/t/p/w500/mCICnh7QBH0gzYaTQChBDDVIKdm.jpg",Clube da Luta
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=550&srv=3143998
+#EXTINF:-1 tvg-id="1234821" tvg-name="Jurassic World: Recomeço" tvg-logo="https://image.tmdb.org/t/p/w500/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg",Jurassic World: Recomeço
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1234821&srv=3130590
+#EXTINF:-1 tvg-id="1265609" tvg-name="Máquina de Guerra" tvg-logo="https://image.tmdb.org/t/p/w500/48h40o6Q97hZaqH0g7bOiXOrImX.jpg",Máquina de Guerra
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1265609&srv=3125162
+#EXTINF:-1 tvg-id="1246049" tvg-name="Drácula - Uma História de Amor Eterno" tvg-logo="https://image.tmdb.org/t/p/w500/eypGGvlpSiEpbeGkczyJCKboS4F.jpg",Drácula - Uma História de Amor Eterno
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1246049&srv=2641864
+#EXTINF:-1 tvg-id="1266127" tvg-name="Casamento Sangrento: A Viúva" tvg-logo="https://image.tmdb.org/t/p/w500/l08o8b3NAPxDzJca9ZF0fdQvbaz.jpg",Casamento Sangrento: A Viúva
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1266127&srv=3148348
+#EXTINF:-1 tvg-id="24428" tvg-name="Os Vingadores: The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/PtSapjHdDjlVcsqdEo0u7rDE6i.jpg",Os Vingadores: The Avengers
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=24428&srv=3146574
+#EXTINF:-1 tvg-id="496243" tvg-name="Parasita" tvg-logo="https://image.tmdb.org/t/p/w500/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",Parasita
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=496243&srv=2653901
+#EXTINF:-1 tvg-id="808" tvg-name="Shrek" tvg-logo="https://image.tmdb.org/t/p/w500/wxeqfC221YMptRRdzxlijAh7q8l.jpg",Shrek
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=808&srv=2658951
+#EXTINF:-1 tvg-id="9671" tvg-name="Crocodilo Dundee" tvg-logo="https://image.tmdb.org/t/p/w500/wYJj9QRGV0n6gQ9UqeLnOMDtIc4.jpg",Crocodilo Dundee
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=9671&srv=3038966
+#EXTINF:-1 tvg-id="533535" tvg-name="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w500/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",Deadpool & Wolverine
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=533535&srv=2649509
+#EXTINF:-1 tvg-id="1480387" tvg-name="undertone" tvg-logo="https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",undertone
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1480387&srv=2644516
+#EXTINF:-1 tvg-id="1584215" tvg-name="Projeto Internato" tvg-logo="https://image.tmdb.org/t/p/w500/7Fpse7kK9AmNYHczkhQs2aQ7mUS.jpg",Projeto Internato
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1584215&srv=2648919
+#EXTINF:-1 tvg-id="1233413" tvg-name="Pecadores" tvg-logo="https://image.tmdb.org/t/p/w500/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",Pecadores
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1233413&srv=3132419
+#EXTINF:-1 tvg-id="950387" tvg-name="Um Filme Minecraft" tvg-logo="https://image.tmdb.org/t/p/w500/a227F8PnXDABR1JJTuasmJmxEhf.jpg",Um Filme Minecraft
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=950387&srv=2643591
+#EXTINF:-1 tvg-id="1272837" tvg-name="Extermínio: O Templo dos Ossos" tvg-logo="https://image.tmdb.org/t/p/w500/tbECC1mMbytgaynCnBhgVPzCZcd.jpg",Extermínio: O Templo dos Ossos
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1272837&srv=2643203
+#EXTINF:-1 tvg-id="857" tvg-name="O Resgate do Soldado Ryan" tvg-logo="https://image.tmdb.org/t/p/w500/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",O Resgate do Soldado Ryan
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=857&srv=3029233
+#EXTINF:-1 tvg-id="1184918" tvg-name="Robô Selvagem" tvg-logo="https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg",Robô Selvagem
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1184918&srv=3136774
+#EXTINF:-1 tvg-id="1156594" tvg-name="Nossa Culpa" tvg-logo="https://image.tmdb.org/t/p/w500/tPq8xqhsTYZzUGwMKuksa0eyeGZ.jpg",Nossa Culpa
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1156594&srv=3128782
+#EXTINF:-1 tvg-id="1198994" tvg-name="Socorro!" tvg-logo="https://image.tmdb.org/t/p/w500/rpU5DGrTVdqcygZBB9npt1WMFch.jpg",Socorro!
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1198994&srv=2643200
+#EXTINF:-1 tvg-id="335984" tvg-name="Blade Runner 2049" tvg-logo="https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",Blade Runner 2049
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=335984&srv=3143746
+#EXTINF:-1 tvg-id="1022789" tvg-name="Divertida Mente 2" tvg-logo="https://image.tmdb.org/t/p/w500/lHKNS35r4RTa9GO72vdadMLxoiV.jpg",Divertida Mente 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1022789&srv=3138108
+#EXTINF:-1 tvg-id="519182" tvg-name="Meu Malvado Favorito 4" tvg-logo="https://image.tmdb.org/t/p/w500/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",Meu Malvado Favorito 4
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=519182&srv=3138096
+#EXTINF:-1 tvg-id="121" tvg-name="O Senhor dos Anéis: As Duas Torres" tvg-logo="https://image.tmdb.org/t/p/w500/mCs8vxvScCqVM3YFMQIdbrdFEhu.jpg",O Senhor dos Anéis: As Duas Torres
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=121&srv=2652702
+#EXTINF:-1 tvg-id="14836" tvg-name="Coraline e o Mundo Secreto" tvg-logo="https://image.tmdb.org/t/p/w500/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg",Coraline e o Mundo Secreto
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=14836&srv=3027358
+#EXTINF:-1 tvg-id="361743" tvg-name="Top Gun: Maverick" tvg-logo="https://image.tmdb.org/t/p/w500/kPbuLGVSJHATkW9fX9L3h1wM0Pa.jpg",Top Gun: Maverick
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=361743&srv=3032344
+#EXTINF:-1 tvg-id="1630423" tvg-name="Meu Querido Assassino" tvg-logo="https://image.tmdb.org/t/p/w500/9ZfPvLEx1xcuTkfAtrVyIbA5Vaw.jpg",Meu Querido Assassino
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1630423&srv=2644240
+#EXTINF:-1 tvg-id="1390300" tvg-name="Por Cima do seu Cadáver" tvg-logo="https://image.tmdb.org/t/p/w500/i9tMHmhq8m1c4xOJofn7lqzXDvj.jpg",Por Cima do seu Cadáver
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1390300&srv=3148293
+#EXTINF:-1 tvg-id="22" tvg-name="Piratas do Caribe: A Maldição do Pérola Negra" tvg-logo="https://image.tmdb.org/t/p/w500/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",Piratas do Caribe: A Maldição do Pérola Negra
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=22&srv=3046380
+#EXTINF:-1 tvg-id="980477" tvg-name="Ne Zha 2: O Renascer da Alma" tvg-logo="https://image.tmdb.org/t/p/w500/wJnb4ikygiVuYLuvj4b4Jpvudn1.jpg",Ne Zha 2: O Renascer da Alma
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=980477&srv=2642512
+#EXTINF:-1 tvg-id="911430" tvg-name="F1: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg",F1: O Filme
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=911430&srv=3130194
+#EXTINF:-1 tvg-id="235271" tvg-name="A Vida Secreta de Zoe" tvg-logo="https://image.tmdb.org/t/p/w500/hvPGpjm1rIvIM0VoNkMXbYf9BwG.jpg",A Vida Secreta de Zoe
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=235271&srv=3143093
+#EXTINF:-1 tvg-id="575265" tvg-name="Missão: Impossível - O Acerto Final" tvg-logo="https://image.tmdb.org/t/p/w500/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg",Missão: Impossível - O Acerto Final
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=575265&srv=2643650
+#EXTINF:-1 tvg-id="1582770" tvg-name="Dhurandhar: A Vingança" tvg-logo="https://image.tmdb.org/t/p/w500/75u9zAPjWQ8zKMJOzWsATaUdM7x.jpg",Dhurandhar: A Vingança
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1582770&srv=2648918
+#EXTINF:-1 tvg-id="77338" tvg-name="Intocáveis" tvg-logo="https://image.tmdb.org/t/p/w500/2tAzFC2xUAXEx96l5Xixb6WLAyO.jpg",Intocáveis
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=77338&srv=3049374
+#EXTINF:-1 tvg-id="254128" tvg-name="Terremoto: A Falha de San Andreas" tvg-logo="https://image.tmdb.org/t/p/w500/wVp2zu88NMWpGluqW9eGQbwLWi.jpg",Terremoto: A Falha de San Andreas
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=254128&srv=3147334
+#EXTINF:-1 tvg-id="602" tvg-name="Independence Day" tvg-logo="https://image.tmdb.org/t/p/w500/7KGNAWjp0QFcynhtLoLXXa3F4Hc.jpg",Independence Day
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=602&srv=2657488
+#EXTINF:-1 tvg-id="10681" tvg-name="WALL-E" tvg-logo="https://image.tmdb.org/t/p/w500/qNiwJPVCO4cgiM8LVtxwPV2HxHS.jpg",WALL-E
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=10681&srv=3141695
+#EXTINF:-1 tvg-id="933260" tvg-name="A Substância" tvg-logo="https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",A Substância
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=933260&srv=3135345
+#EXTINF:-1 tvg-id="569094" tvg-name="Homem-Aranha: Através do Aranhaverso" tvg-logo="https://image.tmdb.org/t/p/w500/fBS6y0LYX4kU6pPSBYMdQy6SIHX.jpg",Homem-Aranha: Através do Aranhaverso
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=569094&srv=3025816
+#EXTINF:-1 tvg-id="497" tvg-name="À Espera de um Milagre" tvg-logo="https://image.tmdb.org/t/p/w500/14hEqW67IiHlKpzKMLUXyktzZIV.jpg",À Espera de um Milagre
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=497&srv=3147711
+#EXTINF:-1 tvg-id="807" tvg-name="Seven - Os Sete Crimes Capitais" tvg-logo="https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",Seven - Os Sete Crimes Capitais
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=807&srv=3147097
+#EXTINF:-1 tvg-id="1358005" tvg-name="Paixão de Escritório" tvg-logo="https://image.tmdb.org/t/p/w500/kN86jEhf5xeHTPwlVeZ1ZAW861r.jpg",Paixão de Escritório
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1358005&srv=3123383
+#EXTINF:-1 tvg-id="372058" tvg-name="Your name." tvg-logo="https://image.tmdb.org/t/p/w500/eIm2nKC0125GyEPSWl6ODCA9J1S.jpg",Your name.
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=372058&srv=3038962
+#EXTINF:-1 tvg-id="324857" tvg-name="Homem-Aranha: No Aranhaverso" tvg-logo="https://image.tmdb.org/t/p/w500/gte2cJ3mtc2I8hZyXwRTzyclKuC.jpg",Homem-Aranha: No Aranhaverso
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=324857&srv=3145026
+#EXTINF:-1 tvg-id="98" tvg-name="Gladiador" tvg-logo="https://image.tmdb.org/t/p/w500/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",Gladiador
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=98&srv=2651351
+#EXTINF:-1 tvg-id="680493" tvg-name="Terror em Silent Hill: Regresso Para o Inferno" tvg-logo="https://image.tmdb.org/t/p/w500/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg",Terror em Silent Hill: Regresso Para o Inferno
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=680493&srv=2644171
+#EXTINF:-1 tvg-id="1241982" tvg-name="Moana 2" tvg-logo="https://image.tmdb.org/t/p/w500/dnqgkKoIGf6hErzRm6VtaK1OJrD.jpg",Moana 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1241982&srv=2649768
+#EXTINF:-1 tvg-id="1168190" tvg-name="Dupla Perigosa" tvg-logo="https://image.tmdb.org/t/p/w500/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg",Dupla Perigosa
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1168190&srv=3126156
+#EXTINF:-1 tvg-id="11" tvg-name="Guerra nas Estrelas" tvg-logo="https://image.tmdb.org/t/p/w500/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",Guerra nas Estrelas
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=11&srv=2666817
+#EXTINF:-1 tvg-id="1038392" tvg-name="Invocação do Mal 4: O Último Ritual" tvg-logo="https://image.tmdb.org/t/p/w500/40nHGUfypLhlr7gJx8At1IbYkaK.jpg",Invocação do Mal 4: O Último Ritual
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1038392&srv=2641808
+#EXTINF:-1 tvg-id="1662317" tvg-name="Colisão: Acidente ou Homicídio?" tvg-logo="https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg",Colisão: Acidente ou Homicídio?
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1662317&srv=2644258
+#EXTINF:-1 tvg-id="424" tvg-name="A Lista de Schindler" tvg-logo="https://image.tmdb.org/t/p/w500/jbnF7dVi8iu80zTsWAC0Om8ZYOu.jpg",A Lista de Schindler
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=424&srv=3036310
+#EXTINF:-1 tvg-id="1167307" tvg-name="Davi: Nasce Um Rei" tvg-logo="https://image.tmdb.org/t/p/w500/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg",Davi: Nasce Um Rei
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1167307&srv=3126179
+#EXTINF:-1 tvg-id="872585" tvg-name="Oppenheimer" tvg-logo="https://image.tmdb.org/t/p/w500/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg",Oppenheimer
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=872585&srv=2650244
+#EXTINF:-1 tvg-id="438631" tvg-name="Duna" tvg-logo="https://image.tmdb.org/t/p/w500/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",Duna
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=438631&srv=3144470
+#EXTINF:-1 tvg-id="8587" tvg-name="O Rei Leão" tvg-logo="https://image.tmdb.org/t/p/w500/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",O Rei Leão
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=8587&srv=3126842
+#EXTINF:-1 tvg-id="269149" tvg-name="Zootopia: Essa Cidade é o Bicho" tvg-logo="https://image.tmdb.org/t/p/w500/27Ko4be7CeFmq2hVN7lp7TWG1sd.jpg",Zootopia: Essa Cidade é o Bicho
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=269149&srv=3019085
+#EXTINF:-1 tvg-id="99861" tvg-name="Vingadores: Era de Ultron" tvg-logo="https://image.tmdb.org/t/p/w500/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg",Vingadores: Era de Ultron
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=99861&srv=3147631
+#EXTINF:-1 tvg-id="502356" tvg-name="Super Mario Bros. O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg",Super Mario Bros. O Filme
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=502356&srv=3025169
+#EXTINF:-1 tvg-id="348" tvg-name="Alien: O Oitavo Passageiro" tvg-logo="https://image.tmdb.org/t/p/w500/rFHzJrkO1kNIezb6rFog5oCJUEn.jpg",Alien: O Oitavo Passageiro
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=348&srv=3134198
+#EXTINF:-1 tvg-id="72190" tvg-name="Guerra Mundial Z" tvg-logo="https://image.tmdb.org/t/p/w500/2Sdz5gGrwN92pRanlJKeUqkIjRk.jpg",Guerra Mundial Z
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=72190&srv=2657467
+#EXTINF:-1 tvg-id="337167" tvg-name="Cinquenta Tons de Liberdade" tvg-logo="https://image.tmdb.org/t/p/w500/c7lzePlEU91R6tZUXpllwISZgXF.jpg",Cinquenta Tons de Liberdade
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=337167&srv=3143983
+#EXTINF:-1 tvg-id="315635" tvg-name="Homem-Aranha: De Volta ao Lar" tvg-logo="https://image.tmdb.org/t/p/w500/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg",Homem-Aranha: De Volta ao Lar
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=315635&srv=3140850
+#EXTINF:-1 tvg-id="1156593" tvg-name="Sua Culpa" tvg-logo="https://image.tmdb.org/t/p/w500/mdaODPyPbAwIeQwgBv7u8CMsxIl.jpg",Sua Culpa
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1156593&srv=3136296
+#EXTINF:-1 tvg-id="1228246" tvg-name="Five Nights at Freddy's 2" tvg-logo="https://image.tmdb.org/t/p/w500/12H82Xrr2ijDF0lJWUarqGFV7bC.jpg",Five Nights at Freddy's 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1228246&srv=3126687
+#EXTINF:-1 tvg-id="389" tvg-name="12 Homens e uma Sentença" tvg-logo="https://image.tmdb.org/t/p/w500/aiHIhV8c45FzIlbqYlswrrNyQD6.jpg",12 Homens e uma Sentença
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=389&srv=3127317
+#EXTINF:-1 tvg-id="1087192" tvg-name="Como Treinar o Seu Dragão" tvg-logo="https://image.tmdb.org/t/p/w500/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg",Como Treinar o Seu Dragão
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1087192&srv=2643678
+#EXTINF:-1 tvg-id="1218925" tvg-name="Chainsaw Man – O Filme: Arco da Reze" tvg-logo="https://image.tmdb.org/t/p/w500/tj1XhCQ2Rw2sT2o7lIdqPIYvjsx.jpg",Chainsaw Man – O Filme: Arco da Reze
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1218925&srv=2642483
+#EXTINF:-1 tvg-id="76341" tvg-name="Mad Max: Estrada da Fúria" tvg-logo="https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",Mad Max: Estrada da Fúria
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=76341&srv=2657516
+#EXTINF:-1 tvg-id="280" tvg-name="O Exterminador do Futuro 2: O Julgamento Final" tvg-logo="https://image.tmdb.org/t/p/w500/eTIY2LO5cDclxgKtCHuvIKdF3c3.jpg",O Exterminador do Futuro 2: O Julgamento Final
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=280&srv=2644804
+#EXTINF:-1 tvg-id="1292695" tvg-name="Eles Vão te Matar" tvg-logo="https://image.tmdb.org/t/p/w500/kPiqEJ8reCWKZXIWgweQd6eR2tP.jpg",Eles Vão te Matar
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1292695&srv=2644227
+#EXTINF:-1 tvg-id="672" tvg-name="Harry Potter e a Câmara Secreta" tvg-logo="https://image.tmdb.org/t/p/w500/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg",Harry Potter e a Câmara Secreta
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=672&srv=2657471
+#EXTINF:-1 tvg-id="299534" tvg-name="Vingadores: Ultimato" tvg-logo="https://image.tmdb.org/t/p/w500/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",Vingadores: Ultimato
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=299534&srv=2651957
+#EXTINF:-1 tvg-id="438148" tvg-name="Minions 2: A Origem de Gru" tvg-logo="https://image.tmdb.org/t/p/w500/iTP3mMw0AoqmScYzDoMmYeKxYe.jpg",Minions 2: A Origem de Gru
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=438148&srv=3140921
+#EXTINF:-1 tvg-id="411" tvg-name="As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa" tvg-logo="https://image.tmdb.org/t/p/w500/sDBziWxSTavCNjbayaXaDDwmTiQ.jpg",As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=411&srv=2652397
+#EXTINF:-1 tvg-id="2062" tvg-name="Ratatouille" tvg-logo="https://image.tmdb.org/t/p/w500/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",Ratatouille
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=2062&srv=2658933
+#EXTINF:-1 tvg-id="1306368" tvg-name="Dinheiro Suspeito" tvg-logo="https://image.tmdb.org/t/p/w500/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",Dinheiro Suspeito
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1306368&srv=2643141
+#EXTINF:-1 tvg-id="244786" tvg-name="Whiplash: Em Busca da Perfeição" tvg-logo="https://image.tmdb.org/t/p/w500/z693uKD7j3zcdX0zVMQPIA3cSZf.jpg",Whiplash: Em Busca da Perfeição
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=244786&srv=3134206
+#EXTINF:-1 tvg-id="559" tvg-name="Homem-Aranha 3" tvg-logo="https://image.tmdb.org/t/p/w500/5831VrgpYNPEokBwxurLVpQ3twM.jpg",Homem-Aranha 3
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=559&srv=3140849
+#EXTINF:-1 tvg-id="693134" tvg-name="Duna: Parte Dois" tvg-logo="https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",Duna: Parte Dois
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=693134&srv=3139641
+#EXTINF:-1 tvg-id="272" tvg-name="Batman Begins" tvg-logo="https://image.tmdb.org/t/p/w500/7EyhcdfiLtH0xa6CZkyYuoWL2GJ.jpg",Batman Begins
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=272&srv=3143661
+#EXTINF:-1 tvg-id="218" tvg-name="O Exterminador do Futuro" tvg-logo="https://image.tmdb.org/t/p/w500/fo4SSoNT1ASI4JP7dOLrosWNWKa.jpg",O Exterminador do Futuro
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=218&srv=3049777
+#EXTINF:-1 tvg-id="354912" tvg-name="Viva: A Vida é uma Festa" tvg-logo="https://image.tmdb.org/t/p/w500/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",Viva: A Vida é uma Festa
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=354912&srv=2659015
+#EXTINF:-1 tvg-id="346698" tvg-name="Barbie" tvg-logo="https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg",Barbie
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=346698&srv=3034737
+#EXTINF:-1 tvg-id="20352" tvg-name="Meu Malvado Favorito" tvg-logo="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg",Meu Malvado Favorito
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=20352&srv=3145619
+#EXTINF:-1 tvg-id="1556616" tvg-name="A Casa de Verão" tvg-logo="https://image.tmdb.org/t/p/w500/thYgwU7wrT1mb3SJklkmJnAzxTS.jpg",A Casa de Verão
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1556616&srv=3123372
+#EXTINF:-1 tvg-id="111" tvg-name="Scarface" tvg-logo="https://image.tmdb.org/t/p/w500/b089YkBDJjOGDQxXkOXBR06Lz2Y.jpg",Scarface
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=111&srv=3147034
+#EXTINF:-1 tvg-id="769" tvg-name="Os Bons Companheiros" tvg-logo="https://image.tmdb.org/t/p/w500/sTReXuaND1AjkXUfjl1gqRcuGfI.jpg",Os Bons Companheiros
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=769&srv=3135426
+#EXTINF:-1 tvg-id="10138" tvg-name="Homem de Ferro 2" tvg-logo="https://image.tmdb.org/t/p/w500/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",Homem de Ferro 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=10138&srv=3052049
+#EXTINF:-1 tvg-id="939243" tvg-name="Sonic 3: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg",Sonic 3: O Filme
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=939243&srv=3135445
+#EXTINF:-1 tvg-id="475557" tvg-name="Coringa" tvg-logo="https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",Coringa
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=475557&srv=2663028
+#EXTINF:-1 tvg-id="829280" tvg-name="Enola Holmes 2" tvg-logo="https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",Enola Holmes 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=829280&srv=3131643
+#EXTINF:-1 tvg-id="574475" tvg-name="Premonição 6: Laços de Sangue" tvg-logo="https://image.tmdb.org/t/p/w500/x3J781PsdMrjenzQKM5eJXqK5Nd.jpg",Premonição 6: Laços de Sangue
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=574475&srv=3131661
+#EXTINF:-1 tvg-id="1330021" tvg-name="Criaturas Extraordinariamente Brilhantes" tvg-logo="https://image.tmdb.org/t/p/w500/iMJaRPY4xx4lScIaIWd67yWJuqc.jpg",Criaturas Extraordinariamente Brilhantes
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1330021&srv=3123690
+#EXTINF:-1 tvg-id="489" tvg-name="Gênio Indomável" tvg-logo="https://image.tmdb.org/t/p/w500/dTe3EpJGnfUeR5swLbWv61iRyFc.jpg",Gênio Indomável
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=489&srv=3028022
+#EXTINF:-1 tvg-id="949" tvg-name="Fogo Contra Fogo" tvg-logo="https://image.tmdb.org/t/p/w500/cv1ZuY874Q0uqFkURO8hjI2471z.jpg",Fogo Contra Fogo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=949&srv=3144782
+#EXTINF:-1 tvg-id="1197306" tvg-name="Resgate Implacável" tvg-logo="https://image.tmdb.org/t/p/w500/1w01rEQRYvIoSs5Is9cQDJhiUel.jpg",Resgate Implacável
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1197306&srv=2643581
+#EXTINF:-1 tvg-id="425274" tvg-name="Truque de Mestre: O 3° Ato" tvg-logo="https://image.tmdb.org/t/p/w500/xUddC5HTjMWmClD007QBWR0BLHY.jpg",Truque de Mestre: O 3° Ato
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=425274&srv=3127263
+#EXTINF:-1 tvg-id="68726" tvg-name="Círculo de Fogo" tvg-logo="https://image.tmdb.org/t/p/w500/uFaWzdxzITZxHKaKwyG26QfzHiG.jpg",Círculo de Fogo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=68726&srv=3029668
+#EXTINF:-1 tvg-id="652" tvg-name="Tróia" tvg-logo="https://image.tmdb.org/t/p/w500/iKp2NxUkqPVSPN2FdXUn9gxj4Nn.jpg",Tróia
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=652&srv=3147455
+#EXTINF:-1 tvg-id="12153" tvg-name="As Branquelas" tvg-logo="https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg",As Branquelas
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=12153&srv=2653156
+#EXTINF:-1 tvg-id="12" tvg-name="Procurando Nemo" tvg-logo="https://image.tmdb.org/t/p/w500/djbivExXSZb0sTO8uYaaQC5vMRM.jpg",Procurando Nemo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=12&srv=3046918
+#EXTINF:-1 tvg-id="18785" tvg-name="Se Beber, Não Case!" tvg-logo="https://image.tmdb.org/t/p/w500/m0tQyMdp3fy5ooUOQkJMd1fQKBJ.jpg",Se Beber, Não Case!
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=18785&srv=3147039
+#EXTINF:-1 tvg-id="1699155" tvg-name="Instinto Materno" tvg-logo="https://image.tmdb.org/t/p/w500/2eqYzlkd9pH2ygGB7cD8fWANZvS.jpg",Instinto Materno
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1699155&srv=3148274
+#EXTINF:-1 tvg-id="541671" tvg-name="Bailarina: Do Universo de John Wick" tvg-logo="https://image.tmdb.org/t/p/w500/by5hjYJp3OJ8GW118kPeURp1rFo.jpg",Bailarina: Do Universo de John Wick
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=541671&srv=2643658
+#EXTINF:-1 tvg-id="603692" tvg-name="John Wick 4: Baba Yaga" tvg-logo="https://image.tmdb.org/t/p/w500/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",John Wick 4: Baba Yaga
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=603692&srv=3141294
+#EXTINF:-1 tvg-id="102382" tvg-name="O Espetacular Homem-Aranha 2: A Ameaça de Electro" tvg-logo="https://image.tmdb.org/t/p/w500/cyMz4OfmNqpuQ02QQOQCbGxQjwK.jpg",O Espetacular Homem-Aranha 2: A Ameaça de Electro
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=102382&srv=3022206
+#EXTINF:-1 tvg-id="637" tvg-name="A Vida é Bela" tvg-logo="https://image.tmdb.org/t/p/w500/dkK48wCY4aVpWFDdPpS6DxQ1bvB.jpg",A Vida é Bela
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=637&srv=2654245
+#EXTINF:-1 tvg-id="945961" tvg-name="Alien: Romulus" tvg-logo="https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",Alien: Romulus
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=945961&srv=3136766
+#EXTINF:-1 tvg-id="210577" tvg-name="Garota Exemplar" tvg-logo="https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",Garota Exemplar
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=210577&srv=3019577
+#EXTINF:-1 tvg-id="414906" tvg-name="Batman" tvg-logo="https://image.tmdb.org/t/p/w500/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",Batman
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=414906&srv=2644473
+#EXTINF:-1 tvg-id="105" tvg-name="De Volta para o Futuro" tvg-logo="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg",De Volta para o Futuro
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=105&srv=3144235
+#EXTINF:-1 tvg-id="1451344" tvg-name="Maridos em Ação" tvg-logo="https://image.tmdb.org/t/p/w500/mring2SRouYXnlLLRLbXb1tlmM3.jpg",Maridos em Ação
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1451344&srv=4271085
+#EXTINF:-1 tvg-id="991494" tvg-name="Bob Esponja: Em Busca da Calça Quadrada" tvg-logo="https://image.tmdb.org/t/p/w500/obDYToEfPFNMKW6x0eamCrjTMzK.jpg",Bob Esponja: Em Busca da Calça Quadrada
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=991494&srv=2641954
+#EXTINF:-1 tvg-id="744275" tvg-name="After: Depois do Desencontro" tvg-logo="https://image.tmdb.org/t/p/w500/us14PtA89IjtR1JOdDamamPth7e.jpg",After: Depois do Desencontro
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=744275&srv=3034273
+#EXTINF:-1 tvg-id="578" tvg-name="Tubarão" tvg-logo="https://image.tmdb.org/t/p/w500/iD2XVowFgHngYGamCAdq2T44gMr.jpg",Tubarão
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=578&srv=3133573
+#EXTINF:-1 tvg-id="26827" tvg-name="Quem é Essa Garota?" tvg-logo="https://image.tmdb.org/t/p/w500/y45tshg5BB1kkPzK6Vi5aeGcolN.jpg",Quem é Essa Garota?
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=26827&srv=3050145
+#EXTINF:-1 tvg-id="1530510" tvg-name="México 1986" tvg-logo="https://image.tmdb.org/t/p/w500/3iRYwrs9JSKzGDXgyoHsFGYwMrz.jpg",México 1986
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1530510&srv=4271677
+#EXTINF:-1 tvg-id="269955" tvg-name="Perigosa Obsessão" tvg-logo="https://image.tmdb.org/t/p/w500/47PJFu8BBZLMCPzwT2BYSwoKFO9.jpg",Perigosa Obsessão
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=269955&srv=3035167
+#EXTINF:-1 tvg-id="950396" tvg-name="Entre Montanhas" tvg-logo="https://image.tmdb.org/t/p/w500/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",Entre Montanhas
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=950396&srv=3032141
+#EXTINF:-1 tvg-id="205596" tvg-name="O Jogo da Imitação" tvg-logo="https://image.tmdb.org/t/p/w500/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",O Jogo da Imitação
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=205596&srv=3139146
+#EXTINF:-1 tvg-id="12445" tvg-name="Harry Potter e as Relíquias da Morte - Parte 2" tvg-logo="https://image.tmdb.org/t/p/w500/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg",Harry Potter e as Relíquias da Morte - Parte 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=12445&srv=3144975
+#EXTINF:-1 tvg-id="11324" tvg-name="Ilha do Medo" tvg-logo="https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",Ilha do Medo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=11324&srv=2655208
+#EXTINF:-1 tvg-id="198663" tvg-name="Maze Runner: Correr ou Morrer" tvg-logo="https://image.tmdb.org/t/p/w500/efAJzIyjYlgdO7fzfMBJcFZqI5v.jpg",Maze Runner: Correr ou Morrer
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=198663&srv=3141164
+#EXTINF:-1 tvg-id="12444" tvg-name="Harry Potter e as Relíquias da Morte - Parte 1" tvg-logo="https://image.tmdb.org/t/p/w500/67FVFOTaeBUQnimhCWpUkDawDct.jpg",Harry Potter e as Relíquias da Morte - Parte 1
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=12444&srv=2657474
+#EXTINF:-1 tvg-id="1930" tvg-name="O Espetacular Homem-Aranha" tvg-logo="https://image.tmdb.org/t/p/w500/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg",O Espetacular Homem-Aranha
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1930&srv=3046596
+#EXTINF:-1 tvg-id="429" tvg-name="Três Homens em Conflito" tvg-logo="https://image.tmdb.org/t/p/w500/n1nYQ9EX83BrixhBC1HIezzYu9O.jpg",Três Homens em Conflito
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=429&srv=3142019
+#EXTINF:-1 tvg-id="674" tvg-name="Harry Potter e o Cálice de Fogo" tvg-logo="https://image.tmdb.org/t/p/w500/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",Harry Potter e o Cálice de Fogo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=674&srv=2657476
+#EXTINF:-1 tvg-id="37165" tvg-name="O Show de Truman: O Show da Vida" tvg-logo="https://image.tmdb.org/t/p/w500/3mEoGWyJCZTSoYyjFD3gFd6hzU4.jpg",O Show de Truman: O Show da Vida
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=37165&srv=3141578
+#EXTINF:-1 tvg-id="47971" tvg-name="xXx: Reativado" tvg-logo="https://image.tmdb.org/t/p/w500/6OVKCxeBt3B84yMjvZ4iQ1tB2BP.jpg",xXx: Reativado
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=47971&srv=3046500
+#EXTINF:-1 tvg-id="1290417" tvg-name="Ataque Brutal" tvg-logo="https://image.tmdb.org/t/p/w500/349RbnEbWd38iLlqzELTUppjSt2.jpg",Ataque Brutal
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1290417&srv=3124149
+#EXTINF:-1 tvg-id="637649" tvg-name="Infiltrado" tvg-logo="https://image.tmdb.org/t/p/w500/rNz8wy63GAabztAUkO4xMGk3upx.jpg",Infiltrado
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=637649&srv=2650810
+#EXTINF:-1 tvg-id="150689" tvg-name="Cinderela" tvg-logo="https://image.tmdb.org/t/p/w500/x8MnNc8zaKMPo5W4TuWN0xVIbNy.jpg",Cinderela
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=150689&srv=2653236
+#EXTINF:-1 tvg-id="1207162" tvg-name="O Último Conquistador" tvg-logo="https://image.tmdb.org/t/p/w500/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg",O Último Conquistador
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1207162&srv=2644220
+#EXTINF:-1 tvg-id="8966" tvg-name="Crepúsculo" tvg-logo="https://image.tmdb.org/t/p/w500/o4ki1gYHkP6IWNdwjHvI9vzfpuC.jpg",Crepúsculo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=8966&srv=3050855
+#EXTINF:-1 tvg-id="1100988" tvg-name="Extermínio: A Evolução" tvg-logo="https://image.tmdb.org/t/p/w500/2K5LCXOqlbzRu7mWHbDnLdDQj6I.jpg",Extermínio: A Evolução
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1100988&srv=3130680
+#EXTINF:-1 tvg-id="617126" tvg-name="Quarteto Fantástico: Primeiros Passos" tvg-logo="https://image.tmdb.org/t/p/w500/8F2vIxWycANHW763lnx2hJVtjDC.jpg",Quarteto Fantástico: Primeiros Passos
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=617126&srv=2641441
+#EXTINF:-1 tvg-id="11216" tvg-name="Cinema Paradiso" tvg-logo="https://image.tmdb.org/t/p/w500/kkmwHNAiCea2QGX6kgPmdDKaWyp.jpg",Cinema Paradiso
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=11216&srv=3034699
+#EXTINF:-1 tvg-id="49051" tvg-name="O Hobbit: Uma Jornada Inesperada" tvg-logo="https://image.tmdb.org/t/p/w500/lZtmn2pLw1kgDYj4Ig4s3DYBQCD.jpg",O Hobbit: Uma Jornada Inesperada
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=49051&srv=2652664
+#EXTINF:-1 tvg-id="181808" tvg-name="Star Wars: Os Últimos Jedi" tvg-logo="https://image.tmdb.org/t/p/w500/5dGufuaIG5vNcxPm8QPij5MSPeQ.jpg",Star Wars: Os Últimos Jedi
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=181808&srv=2666822
+#EXTINF:-1 tvg-id="216015" tvg-name="Cinquenta Tons de Cinza" tvg-logo="https://image.tmdb.org/t/p/w500/t4kR6H71anOV85qzjOLlr9uVdFJ.jpg",Cinquenta Tons de Cinza
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=216015&srv=3143982
+#EXTINF:-1 tvg-id="249397" tvg-name="Ninfomaniaca: Volume 2" tvg-logo="https://image.tmdb.org/t/p/w500/nbMhSVpyk5pNLqCSLadfzCPy77U.jpg",Ninfomaniaca: Volume 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=249397&srv=3129610
+#EXTINF:-1 tvg-id="1317288" tvg-name="Marty Supreme" tvg-logo="https://image.tmdb.org/t/p/w500/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg",Marty Supreme
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1317288&srv=3125161
+#EXTINF:-1 tvg-id="1495" tvg-name="Cruzada" tvg-logo="https://image.tmdb.org/t/p/w500/unb9egsteLvvcXaWpgeK0RUorcD.jpg",Cruzada
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1495&srv=3125196
+#EXTINF:-1 tvg-id="429617" tvg-name="Homem-Aranha: Longe de Casa" tvg-logo="https://image.tmdb.org/t/p/w500/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",Homem-Aranha: Longe de Casa
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=429617&srv=3140851
+#EXTINF:-1 tvg-id="823464" tvg-name="Godzilla e Kong: O Novo Império" tvg-logo="https://image.tmdb.org/t/p/w500/fWSGD2yrzz6hscocnMD8AEXIThk.jpg",Godzilla e Kong: O Novo Império
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=823464&srv=3139406
+#EXTINF:-1 tvg-id="396535" tvg-name="Invasão Zumbi" tvg-logo="https://image.tmdb.org/t/p/w500/QqHtwk0oHYed26zra9WGQGyBSm.jpg",Invasão Zumbi
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=396535&srv=3128736
+#EXTINF:-1 tvg-id="425" tvg-name="A Era do Gelo" tvg-logo="https://image.tmdb.org/t/p/w500/dlqC2gJs02gc23XvyOjoz52ToRI.jpg",A Era do Gelo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=425&srv=3027320
+#EXTINF:-1 tvg-id="809" tvg-name="Shrek 2" tvg-logo="https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",Shrek 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=809&srv=3141333
+#EXTINF:-1 tvg-id="207" tvg-name="Sociedade dos Poetas Mortos" tvg-logo="https://image.tmdb.org/t/p/w500/gMmbJEqEzupp4BYTcRkNsPDPvQE.jpg",Sociedade dos Poetas Mortos
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=207&srv=3132445
+#EXTINF:-1 tvg-id="333339" tvg-name="Jogador N° 1" tvg-logo="https://image.tmdb.org/t/p/w500/sN46sgCsWqwgHMu4mEtKJ19knVr.jpg",Jogador N° 1
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=333339&srv=3145192
+#EXTINF:-1 tvg-id="6977" tvg-name="Onde os Fracos Não Têm Vez" tvg-logo="https://image.tmdb.org/t/p/w500/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",Onde os Fracos Não Têm Vez
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=6977&srv=2663854
+#EXTINF:-1 tvg-id="588228" tvg-name="A Guerra do Amanhã" tvg-logo="https://image.tmdb.org/t/p/w500/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg",A Guerra do Amanhã
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=588228&srv=2657336
+#EXTINF:-1 tvg-id="1124" tvg-name="O Grande Truque" tvg-logo="https://image.tmdb.org/t/p/w500/4AUW2bGbQjWACUREckGJWXmyF0d.jpg",O Grande Truque
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1124&srv=2655531
+#EXTINF:-1 tvg-id="1726" tvg-name="Homem de Ferro" tvg-logo="https://image.tmdb.org/t/p/w500/mqN7RxojEiPoh3FTSTwOtwg7KAu.jpg",Homem de Ferro
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1726&srv=2651375
+#EXTINF:-1 tvg-id="561" tvg-name="Constantine" tvg-logo="https://image.tmdb.org/t/p/w500/dd4uzgUAbBIiRW7dcY0AcgSWohJ.jpg",Constantine
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=561&srv=3144082
+#EXTINF:-1 tvg-id="4247" tvg-name="Todo Mundo em Pânico" tvg-logo="https://image.tmdb.org/t/p/w500/daorfyZdHkI44vuf3DVDbmJkYQI.jpg",Todo Mundo em Pânico
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=4247&srv=4021901
+#EXTINF:-1 tvg-id="385687" tvg-name="Velozes & Furiosos 10" tvg-logo="https://image.tmdb.org/t/p/w500/xNqt1Om0IlUhDOjZRCL5ewoazVV.jpg",Velozes & Furiosos 10
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=385687&srv=3141226
+#EXTINF:-1 tvg-id="315162" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://image.tmdb.org/t/p/w500/atJxZfCaQ7kXRFSfbm8cqAKkns7.jpg",Gato de Botas 2: O Último Pedido
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=315162&srv=3026090
+#EXTINF:-1 tvg-id="460465" tvg-name="Mortal Kombat" tvg-logo="https://image.tmdb.org/t/p/w500/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg",Mortal Kombat
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=460465&srv=3123435
+#EXTINF:-1 tvg-id="419430" tvg-name="Corra!" tvg-logo="https://image.tmdb.org/t/p/w500/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg",Corra!
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=419430&srv=3051557
+#EXTINF:-1 tvg-id="1084577" tvg-name="Bola pra Cima" tvg-logo="https://image.tmdb.org/t/p/w500/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg",Bola pra Cima
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1084577&srv=3124091
+#EXTINF:-1 tvg-id="507086" tvg-name="Jurassic World: Domínio" tvg-logo="https://image.tmdb.org/t/p/w500/7qeiCNSmzrkcEyIWi8sIcsjrOyW.jpg",Jurassic World: Domínio
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=507086&srv=2652564
+#EXTINF:-1 tvg-id="38365" tvg-name="Gente Grande" tvg-logo="https://image.tmdb.org/t/p/w500/ppU2xJnlKdW3F01AtC9wMuXRZCg.jpg",Gente Grande
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=38365&srv=3135811
+#EXTINF:-1 tvg-id="1159831" tvg-name="A Noiva!" tvg-logo="https://image.tmdb.org/t/p/w500/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg",A Noiva!
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1159831&srv=3124240
+#EXTINF:-1 tvg-id="1236153" tvg-name="Justiça Artificial" tvg-logo="https://image.tmdb.org/t/p/w500/vI7bNC07BaSEvZ9ATzV57wpAYwQ.jpg",Justiça Artificial
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1236153&srv=3125629
+#EXTINF:-1 tvg-id="411088" tvg-name="Um Contratempo" tvg-logo="https://image.tmdb.org/t/p/w500/pOnbhr6DbPgKjvcNexbRdmR37De.jpg",Um Contratempo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=411088&srv=3147494
+#EXTINF:-1 tvg-id="915523" tvg-name="Uma Família Extraordinária" tvg-logo="https://image.tmdb.org/t/p/w500/xcmLl584q80csyGwH0q65nDg1cA.jpg",Uma Família Extraordinária
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=915523&srv=2650692
+#EXTINF:-1 tvg-id="11036" tvg-name="Diário de uma Paixão" tvg-logo="https://image.tmdb.org/t/p/w500/hO6k34ZNDwWzgcnzFbqYf2Rjg5W.jpg",Diário de uma Paixão
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=11036&srv=3134152
+#EXTINF:-1 tvg-id="77" tvg-name="Amnésia" tvg-logo="https://image.tmdb.org/t/p/w500/7leBWM27Q0TUnvmhw6WnFNgGn4G.jpg",Amnésia
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=77&srv=3143333
+#EXTINF:-1 tvg-id="629" tvg-name="Os Suspeitos" tvg-logo="https://image.tmdb.org/t/p/w500/8RrGQ3kSiu2JJatkQ3o0DdXUGUU.jpg",Os Suspeitos
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=629&srv=3133550
+#EXTINF:-1 tvg-id="829557" tvg-name="365 Dias: Hoje" tvg-logo="https://image.tmdb.org/t/p/w500/3104lH1U1XfUXo0ZLawnIjXS0NC.jpg",365 Dias: Hoje
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=829557&srv=2661958
+#EXTINF:-1 tvg-id="767" tvg-name="Harry Potter e o Enigma do Príncipe" tvg-logo="https://image.tmdb.org/t/p/w500/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",Harry Potter e o Enigma do Príncipe
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=767&srv=2657477
+#EXTINF:-1 tvg-id="14160" tvg-name="Up: Altas Aventuras" tvg-logo="https://image.tmdb.org/t/p/w500/oo5gvGDIiPwbXc3R0snZIuOc517.jpg",Up: Altas Aventuras
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=14160&srv=3140232
+#EXTINF:-1 tvg-id="615656" tvg-name="Megatubarão 2" tvg-logo="https://image.tmdb.org/t/p/w500/x3uhIodq56mlGBwpDTZ52trGb35.jpg",Megatubarão 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=615656&srv=3140950
+#EXTINF:-1 tvg-id="866398" tvg-name="Beekeeper: Rede de Vingança" tvg-logo="https://image.tmdb.org/t/p/w500/raNfPn7DGbh1Ffwq4Y9BO1Iektv.jpg",Beekeeper: Rede de Vingança
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=866398&srv=3139930
+#EXTINF:-1 tvg-id="1316092" tvg-name="“O Morro dos Ventos Uivantes”" tvg-logo="https://image.tmdb.org/t/p/w500/762vOiAWzosAH95sKLzUqYaAoHR.jpg",“O Morro dos Ventos Uivantes”
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1316092&srv=2644124
+#EXTINF:-1 tvg-id="284053" tvg-name="Thor: Ragnarok" tvg-logo="https://image.tmdb.org/t/p/w500/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",Thor: Ragnarok
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=284053&srv=2651882
+#EXTINF:-1 tvg-id="572802" tvg-name="Aquaman 2: O Reino Perdido" tvg-logo="https://image.tmdb.org/t/p/w500/2Mys5JCHhUH6DE9YxLFFZaCsOHu.jpg",Aquaman 2: O Reino Perdido
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=572802&srv=3140139
+#EXTINF:-1 tvg-id="2251" tvg-name="Infidelidade" tvg-logo="https://image.tmdb.org/t/p/w500/ina8zdMp5CHRd59cupyRbMFCTAz.jpg",Infidelidade
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=2251&srv=3140314
+#EXTINF:-1 tvg-id="18240" tvg-name="A Proposta" tvg-logo="https://image.tmdb.org/t/p/w500/uIhags0jXoe78JJjCDZbByciesQ.jpg",A Proposta
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=18240&srv=2654368
+#EXTINF:-1 tvg-id="1417" tvg-name="O Labirinto do Fauno" tvg-logo="https://image.tmdb.org/t/p/w500/5hMcZCR8qpJzeebm38Zi68XwcoA.jpg",O Labirinto do Fauno
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1417&srv=3137126
+#EXTINF:-1 tvg-id="122917" tvg-name="O Hobbit: A Batalha dos Cinco Exércitos" tvg-logo="https://image.tmdb.org/t/p/w500/wRKwrfQ7p0ttrb09G3mcOSyN1pk.jpg",O Hobbit: A Batalha dos Cinco Exércitos
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=122917&srv=3045814
+#EXTINF:-1 tvg-id="128" tvg-name="Princesa Mononoke" tvg-logo="https://image.tmdb.org/t/p/w500/7EadOwHmyQgOnlghRiWBygNtnjl.jpg",Princesa Mononoke
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=128&srv=3046974
+#EXTINF:-1 tvg-id="373571" tvg-name="Godzilla II: Rei dos Monstros" tvg-logo="https://image.tmdb.org/t/p/w500/2umU3r6V4V2gTmSnZJmH61nTorF.jpg",Godzilla II: Rei dos Monstros
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=373571&srv=3144885
+#EXTINF:-1 tvg-id="324552" tvg-name="John Wick: Um Novo Dia para Matar" tvg-logo="https://image.tmdb.org/t/p/w500/kRAHy9CQnNT16vTvtJtu9pRgjEG.jpg",John Wick: Um Novo Dia para Matar
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=324552&srv=3141693
+#EXTINF:-1 tvg-id="1119449" tvg-name="Boa Sorte, Divirta-se, Não Morra" tvg-logo="https://image.tmdb.org/t/p/w500/uy9KPHgJpxXHCzn4vPzuGkApzC8.jpg",Boa Sorte, Divirta-se, Não Morra
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1119449&srv=2644509
+#EXTINF:-1 tvg-id="296096" tvg-name="Como Eu Era Antes de Você" tvg-logo="https://image.tmdb.org/t/p/w500/1a60KPNTC4JKYphNQveAB37Lyif.jpg",Como Eu Era Antes de Você
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=296096&srv=3144036
+#EXTINF:-1 tvg-id="78" tvg-name="Blade Runner: O Caçador de Andróides" tvg-logo="https://image.tmdb.org/t/p/w500/y5ibL0vFnzsRiIHosw0WOfHtIj1.jpg",Blade Runner: O Caçador de Andróides
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=78&srv=3049743
+#EXTINF:-1 tvg-id="57800" tvg-name="A Era do Gelo 4" tvg-logo="https://image.tmdb.org/t/p/w500/jhkLlbACjti51Pkh0tt0UaS7ij2.jpg",A Era do Gelo 4
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=57800&srv=3142724
+#EXTINF:-1 tvg-id="101" tvg-name="O Profissional" tvg-logo="https://image.tmdb.org/t/p/w500/lNyuX5XibtzRImuhACGy42jHXIs.jpg",O Profissional
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=101&srv=3133696
+#EXTINF:-1 tvg-id="10867" tvg-name="Malèna" tvg-logo="https://image.tmdb.org/t/p/w500/aGK0x9RblIUqkLp6xKYMSttlqMn.jpg",Malèna
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=10867&srv=3131270
+#EXTINF:-1 tvg-id="1560681" tvg-name="As Cores do Mal: Preto" tvg-logo="https://image.tmdb.org/t/p/w500/iLRaOUwqi7zTYl8x0CeZOMEihBu.jpg",As Cores do Mal: Preto
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1560681&srv=3123336
+#EXTINF:-1 tvg-id="9806" tvg-name="Os Incríveis" tvg-logo="https://image.tmdb.org/t/p/w500/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",Os Incríveis
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=9806&srv=3027307
+#EXTINF:-1 tvg-id="137113" tvg-name="No Limite do Amanhã" tvg-logo="https://image.tmdb.org/t/p/w500/ibubeKZuo4ZI2Zu2Dm2s0gmMvuk.jpg",No Limite do Amanhã
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=137113&srv=2651537
+#EXTINF:-1 tvg-id="9631" tvg-name="A Negociação" tvg-logo="https://image.tmdb.org/t/p/w500/t7URDjNfRJWtbybUro9G2MUVp6Z.jpg",A Negociação
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=9631&srv=3142943
+#EXTINF:-1 tvg-id="976893" tvg-name="Dias Perfeitos" tvg-logo="https://image.tmdb.org/t/p/w500/p4oCDJgtYPg8lWqmeNIsqPwzZ7X.jpg",Dias Perfeitos
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=976893&srv=3129157
+#EXTINF:-1 tvg-id="263115" tvg-name="Logan" tvg-logo="https://image.tmdb.org/t/p/w500/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg",Logan
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=263115&srv=3145402
+#EXTINF:-1 tvg-id="604" tvg-name="Matrix Reloaded" tvg-logo="https://image.tmdb.org/t/p/w500/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",Matrix Reloaded
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=604&srv=3145541
+#EXTINF:-1 tvg-id="122906" tvg-name="Questão de Tempo" tvg-logo="https://image.tmdb.org/t/p/w500/uqEzxvGDYNzoQE7rayv7gRXBomt.jpg",Questão de Tempo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=122906&srv=3146879
+#EXTINF:-1 tvg-id="744" tvg-name="Top Gun - Ases Indomáveis" tvg-logo="https://image.tmdb.org/t/p/w500/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg",Top Gun - Ases Indomáveis
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=744&srv=3147410
+#EXTINF:-1 tvg-id="1054867" tvg-name="Uma Batalha Após a Outra" tvg-logo="https://image.tmdb.org/t/p/w500/2peYXW6CoruehDnKJGMjl2NuaNB.jpg",Uma Batalha Após a Outra
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1054867&srv=3128234
+#EXTINF:-1 tvg-id="1598785" tvg-name="Expresso Galático Metrô Via-Lácteo: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",Expresso Galático Metrô Via-Lácteo: O Filme
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1598785&srv=4271179
+#EXTINF:-1 tvg-id="9502" tvg-name="Kung Fu Panda" tvg-logo="https://image.tmdb.org/t/p/w500/1YMs3zCt5kICK28RvVgDL1UUtkA.jpg",Kung Fu Panda
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=9502&srv=3020763
+#EXTINF:-1 tvg-id="1010755" tvg-name="Os Estranhos: Capítulo Final" tvg-logo="https://image.tmdb.org/t/p/w500/jYaPXOzUFVlNIn5Cgn1dyVRYpRN.jpg",Os Estranhos: Capítulo Final
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1010755&srv=3123835
+#EXTINF:-1 tvg-id="6479" tvg-name="Eu Sou a Lenda" tvg-logo="https://image.tmdb.org/t/p/w500/j2jb6DwNCPIU2LtUrJ9zoQIGvSz.jpg",Eu Sou a Lenda
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=6479&srv=3046539
+#EXTINF:-1 tvg-id="2109" tvg-name="A Hora do Rush" tvg-logo="https://image.tmdb.org/t/p/w500/sdzr7YU2fPoTwjfsO4gN7ri0S5e.jpg",A Hora do Rush
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=2109&srv=3142831
+#EXTINF:-1 tvg-id="330457" tvg-name="Frozen II" tvg-logo="https://image.tmdb.org/t/p/w500/yK9wazsgpZ9QfmITC96biaMzndV.jpg",Frozen II
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=330457&srv=3144813
+#EXTINF:-1 tvg-id="197" tvg-name="Coração Valente" tvg-logo="https://image.tmdb.org/t/p/w500/cfnhpDzEV5zTsuaa4dCHFRzPHXx.jpg",Coração Valente
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=197&srv=3135979
+#EXTINF:-1 tvg-id="38757" tvg-name="Enrolados" tvg-logo="https://image.tmdb.org/t/p/w500/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",Enrolados
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=38757&srv=3144585
+#EXTINF:-1 tvg-id="1734" tvg-name="O Retorno da Múmia" tvg-logo="https://image.tmdb.org/t/p/w500/34X3xSSriMVdHHO9EEpe8thhDCC.jpg",O Retorno da Múmia
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1734&srv=3146307
+#EXTINF:-1 tvg-id="62" tvg-name="2001: Uma Odisséia no Espaço" tvg-logo="https://image.tmdb.org/t/p/w500/pVCmLuATJ0lQs4Vx1zUJUN0if2A.jpg",2001: Uma Odisséia no Espaço
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=62&srv=3024817
+#EXTINF:-1 tvg-id="290098" tvg-name="A Criada" tvg-logo="https://image.tmdb.org/t/p/w500/q6ngYthHXCvA2ZubO4FHTFNRrmc.jpg",A Criada
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=290098&srv=3135810
+#EXTINF:-1 tvg-id="284054" tvg-name="Pantera Negra" tvg-logo="https://image.tmdb.org/t/p/w500/ubXNpxL2ASSzY0f8Hxv08pOsV2L.jpg",Pantera Negra
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=284054&srv=3142033
+#EXTINF:-1 tvg-id="912649" tvg-name="Venom: A Última Rodada" tvg-logo="https://image.tmdb.org/t/p/w500/eZIIPjL7oGqfmF7Gw5ZnbDjH6yu.jpg",Venom: A Última Rodada
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=912649&srv=3136621
+#EXTINF:-1 tvg-id="335983" tvg-name="Venom" tvg-logo="https://image.tmdb.org/t/p/w500/e4SJKPH8muigUI8VcZtkqWJvEz1.jpg",Venom
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=335983&srv=3045789
+#EXTINF:-1 tvg-id="436969" tvg-name="O Esquadrão Suicida" tvg-logo="https://image.tmdb.org/t/p/w500/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",O Esquadrão Suicida
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=436969&srv=3135813
+#EXTINF:-1 tvg-id="293167" tvg-name="Kong: A Ilha da Caveira" tvg-logo="https://image.tmdb.org/t/p/w500/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg",Kong: A Ilha da Caveira
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=293167&srv=2651441
+#EXTINF:-1 tvg-id="447332" tvg-name="Um Lugar Silencioso" tvg-logo="https://image.tmdb.org/t/p/w500/jk1LYcbiuUr0tv37cVcmp4u9KcN.jpg",Um Lugar Silencioso
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=447332&srv=2665864
+#EXTINF:-1 tvg-id="577922" tvg-name="Tenet" tvg-logo="https://image.tmdb.org/t/p/w500/Ae0pbv4E6YfqfN3UjKWIfQSzP9v.jpg",Tenet
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=577922&srv=3147323
+#EXTINF:-1 tvg-id="447365" tvg-name="Guardiões da Galáxia: Vol. 3" tvg-logo="https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",Guardiões da Galáxia: Vol. 3
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=447365&srv=3141021
+#EXTINF:-1 tvg-id="271110" tvg-name="Capitão América: Guerra Civil" tvg-logo="https://image.tmdb.org/t/p/w500/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",Capitão América: Guerra Civil
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=271110&srv=3143872
+#EXTINF:-1 tvg-id="1422" tvg-name="Os Infiltrados" tvg-logo="https://image.tmdb.org/t/p/w500/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",Os Infiltrados
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1422&srv=3128787
+#EXTINF:-1 tvg-id="28" tvg-name="Apocalypse Now" tvg-logo="https://image.tmdb.org/t/p/w500/veXttPnNe8EZulvmeGTyDUrG9T4.jpg",Apocalypse Now
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=28&srv=3017266
+#EXTINF:-1 tvg-id="246655" tvg-name="X-Men: Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w500/avAUyU5cXk0ASy5yR8FMtO78LRS.jpg",X-Men: Apocalipse
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=246655&srv=2657901
+#EXTINF:-1 tvg-id="365045" tvg-name="Heidi" tvg-logo="https://image.tmdb.org/t/p/w500/mTpclHKeEYPsrlTSexSP5HHjT3k.jpg",Heidi
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=365045&srv=3039735
+#EXTINF:-1 tvg-id="615457" tvg-name="Anônimo" tvg-logo="https://image.tmdb.org/t/p/w500/qvW0h99en3sE8p1KQYZfO34VhZh.jpg",Anônimo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=615457&srv=3046215
+#EXTINF:-1 tvg-id="406997" tvg-name="Extraordinário" tvg-logo="https://image.tmdb.org/t/p/w500/2oCqYAm00tMOPNgYPYfYAwMhcPn.jpg",Extraordinário
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=406997&srv=3123720
+#EXTINF:-1 tvg-id="1084199" tvg-name="Acompanhante Perfeita" tvg-logo="https://image.tmdb.org/t/p/w500/7LbrEQvturE05hljvTCWST7rLQL.jpg",Acompanhante Perfeita
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1084199&srv=3132894
+#EXTINF:-1 tvg-id="49013" tvg-name="Carros 2" tvg-logo="https://image.tmdb.org/t/p/w500/fIKaabvE40T39nOIngcZPcPJeYe.jpg",Carros 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=49013&srv=3143889
+#EXTINF:-1 tvg-id="281957" tvg-name="O Regresso" tvg-logo="https://image.tmdb.org/t/p/w500/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg",O Regresso
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=281957&srv=3146291
+#EXTINF:-1 tvg-id="607" tvg-name="MIB - Homens de Preto" tvg-logo="https://image.tmdb.org/t/p/w500/bUA0TD2COayMP6ur9Qbewdbbm2e.jpg",MIB - Homens de Preto
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=607&srv=3138118
+#EXTINF:-1 tvg-id="242" tvg-name="O Poderoso Chefão: Parte III" tvg-logo="https://image.tmdb.org/t/p/w500/y8GROCjgD8amoFufSx2USKrOy7d.jpg",O Poderoso Chefão: Parte III
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=242&srv=2655594
+#EXTINF:-1 tvg-id="214756" tvg-name="Ted 2" tvg-logo="https://image.tmdb.org/t/p/w500/kblxjPVIXaIQ7iHo5b2LaBOEllD.jpg",Ted 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=214756&srv=2654072
+#EXTINF:-1 tvg-id="95" tvg-name="Armageddon" tvg-logo="https://image.tmdb.org/t/p/w500/uSS6G9K14Qe6Ywh4IMkgjQBM3a3.jpg",Armageddon
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=95&srv=3143459
+#EXTINF:-1 tvg-id="1223601" tvg-name="SISU: Estrada da Vingança" tvg-logo="https://image.tmdb.org/t/p/w500/z8LpUN4UOsYcUSLw1STPZsQ5w8B.jpg",SISU: Estrada da Vingança
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1223601&srv=3127261
+#EXTINF:-1 tvg-id="1062722" tvg-name="Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w500/rB0tZwNImTT8febX5qVycZ5YVeF.jpg",Frankenstein
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1062722&srv=3128252
+#EXTINF:-1 tvg-id="36647" tvg-name="Blade: O Caçador de Vampiros" tvg-logo="https://image.tmdb.org/t/p/w500/u6PrOGJwwQuvhoIaJL25INbS3Z8.jpg",Blade: O Caçador de Vampiros
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=36647&srv=3143748
+#EXTINF:-1 tvg-id="493922" tvg-name="Hereditário" tvg-logo="https://image.tmdb.org/t/p/w500/wonYMeHauhrxSi5UTOtj5L479mS.jpg",Hereditário
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=493922&srv=3051230
+#EXTINF:-1 tvg-id="940721" tvg-name="Godzilla Minus One" tvg-logo="https://image.tmdb.org/t/p/w500/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg",Godzilla Minus One
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=940721&srv=3138648
+#EXTINF:-1 tvg-id="1724" tvg-name="O Incrível Hulk" tvg-logo="https://image.tmdb.org/t/p/w500/v1UXe9WlwkkZ5YrffUSPdYNeJz3.jpg",O Incrível Hulk
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1724&srv=3052055
+#EXTINF:-1 tvg-id="18" tvg-name="O Quinto Elemento" tvg-logo="https://image.tmdb.org/t/p/w500/t2fanPUgCGty1tmU9t3jtYEOEMS.jpg",O Quinto Elemento
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=18&srv=3146287
+#EXTINF:-1 tvg-id="601" tvg-name="E.T.: O Extraterrestre" tvg-logo="https://image.tmdb.org/t/p/w500/8j5igb0iuV9TYudw9SuMV5GT9K9.jpg",E.T.: O Extraterrestre
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=601&srv=2642607
+#EXTINF:-1 tvg-id="6145" tvg-name="Um Crime de Mestre" tvg-logo="https://image.tmdb.org/t/p/w500/oSlEKVkSiiUh2sg7JisOONzYsf.jpg",Um Crime de Mestre
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=6145&srv=3042036
+#EXTINF:-1 tvg-id="1408208" tvg-name="Exit 8" tvg-logo="https://image.tmdb.org/t/p/w500/naszJRWpzgbrR9vdifVoQ9IpNqW.jpg",Exit 8
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1408208&srv=3148341
+#EXTINF:-1 tvg-id="8358" tvg-name="Náufrago" tvg-logo="https://image.tmdb.org/t/p/w500/eaJRnsUIxOeMgpY81iIgGr372vp.jpg",Náufrago
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=8358&srv=3140420
+#EXTINF:-1 tvg-id="273481" tvg-name="Sicario: Terra de Ninguém" tvg-logo="https://image.tmdb.org/t/p/w500/iz8j7Cii58IzvYq4YQeMNXiwE7B.jpg",Sicario: Terra de Ninguém
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=273481&srv=3029610
+#EXTINF:-1 tvg-id="254" tvg-name="King Kong" tvg-logo="https://image.tmdb.org/t/p/w500/rdat3dqmakvhE2oRnUml9g5gZJg.jpg",King Kong
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=254&srv=2652887
+#EXTINF:-1 tvg-id="985939" tvg-name="A Queda" tvg-logo="https://image.tmdb.org/t/p/w500/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",A Queda
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=985939&srv=3140485
+#EXTINF:-1 tvg-id="1022787" tvg-name="Elio" tvg-logo="https://image.tmdb.org/t/p/w500/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg",Elio
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1022787&srv=3129607
+#EXTINF:-1 tvg-id="798645" tvg-name="O Sobrevivente" tvg-logo="https://image.tmdb.org/t/p/w500/8nBuPCAXLFSuUBjO1WvJ2blEVmK.jpg",O Sobrevivente
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=798645&srv=3127601
+#EXTINF:-1 tvg-id="82690" tvg-name="Detona Ralph" tvg-logo="https://image.tmdb.org/t/p/w500/9OGpoSaGGwbWSFQVFaVGakLyaoK.jpg",Detona Ralph
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=82690&srv=3144316
+#EXTINF:-1 tvg-id="11423" tvg-name="Memórias de um Assassino" tvg-logo="https://image.tmdb.org/t/p/w500/hT5TIl0YjjJQNGhPM84k2jzL7Jv.jpg",Memórias de um Assassino
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=11423&srv=3037546
+#EXTINF:-1 tvg-id="377" tvg-name="A Hora do Pesadelo" tvg-logo="https://image.tmdb.org/t/p/w500/8cXxfVhSdTL1tC5ivC0mX74QQyI.jpg",A Hora do Pesadelo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=377&srv=2664442
+#EXTINF:-1 tvg-id="1317672" tvg-name="Amor Demais" tvg-logo="https://image.tmdb.org/t/p/w500/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg",Amor Demais
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1317672&srv=3125644
+#EXTINF:-1 tvg-id="786892" tvg-name="Furiosa: Uma Saga Mad Max" tvg-logo="https://image.tmdb.org/t/p/w500/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",Furiosa: Uma Saga Mad Max
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=786892&srv=3138472
+#EXTINF:-1 tvg-id="36557" tvg-name="007: Cassino Royale" tvg-logo="https://image.tmdb.org/t/p/w500/lfOk6E07jTLZsxj0SoSoAmTqhk1.jpg",007: Cassino Royale
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=36557&srv=3027698
+#EXTINF:-1 tvg-id="259316" tvg-name="Animais Fantásticos e Onde Habitam" tvg-logo="https://image.tmdb.org/t/p/w500/sGkt9ekX5cgRYKRIiJM27Xp3piR.jpg",Animais Fantásticos e Onde Habitam
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=259316&srv=2657370
+#EXTINF:-1 tvg-id="2105" tvg-name="American Pie: A Primeira Vez é Inesquecível" tvg-logo="https://image.tmdb.org/t/p/w500/4GxuPJxUcArRpfBGJL6BG3B4Cb9.jpg",American Pie: A Primeira Vez é Inesquecível
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=2105&srv=3143304
+#EXTINF:-1 tvg-id="801335" tvg-name="Torturada Pelo Próprio Pai" tvg-logo="https://image.tmdb.org/t/p/w500/ctoPyY37P0jlaEaA7Vd5VhwiI1k.jpg",Torturada Pelo Próprio Pai
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=801335&srv=3147414
+#EXTINF:-1 tvg-id="118" tvg-name="A Fantástica Fábrica de Chocolate" tvg-logo="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg",A Fantástica Fábrica de Chocolate
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=118&srv=2652328
+#EXTINF:-1 tvg-id="62177" tvg-name="Valente" tvg-logo="https://image.tmdb.org/t/p/w500/gYbCpjAsyJ0uO0rKcvJ295INZZp.jpg",Valente
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=62177&srv=2659012
+#EXTINF:-1 tvg-id="11649" tvg-name="Mestres do Universo" tvg-logo="https://image.tmdb.org/t/p/w500/9B2bRNm4jtGj3h55M51LiH1BPs3.jpg",Mestres do Universo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=11649&srv=3038357
+#EXTINF:-1 tvg-id="530385" tvg-name="Midsommar: O Mal Não Espera a Noite" tvg-logo="https://image.tmdb.org/t/p/w500/hR4dXPlWq5Nekwjqbp3gFGeiiZS.jpg",Midsommar: O Mal Não Espera a Noite
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=530385&srv=3145643
+#EXTINF:-1 tvg-id="58" tvg-name="Piratas do Caribe: O Baú da Morte" tvg-logo="https://image.tmdb.org/t/p/w500/yvD1G41HwHgj8afCjmfGbyRmBBR.jpg",Piratas do Caribe: O Baú da Morte
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=58&srv=3146705
+#EXTINF:-1 tvg-id="539972" tvg-name="Kraven: O Caçador" tvg-logo="https://image.tmdb.org/t/p/w500/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",Kraven: O Caçador
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=539972&srv=3135821
+#EXTINF:-1 tvg-id="1949" tvg-name="Zodíaco" tvg-logo="https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",Zodíaco
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1949&srv=3033049
+#EXTINF:-1 tvg-id="285" tvg-name="Piratas do Caribe: No Fim do Mundo" tvg-logo="https://image.tmdb.org/t/p/w500/j15lZasREutscon6e61LSSNJoN7.jpg",Piratas do Caribe: No Fim do Mundo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=285&srv=3026575
+#EXTINF:-1 tvg-id="278154" tvg-name="A Era do Gelo: O Big Bang" tvg-logo="https://image.tmdb.org/t/p/w500/e7R8ULZLdiKO2uYtXqifwf2pJfy.jpg",A Era do Gelo: O Big Bang
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=278154&srv=2658350
+#EXTINF:-1 tvg-id="467905" tvg-name="Manual Prático da Vingança Lucrativa" tvg-logo="https://image.tmdb.org/t/p/w500/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg",Manual Prático da Vingança Lucrativa
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=467905&srv=3124073
+#EXTINF:-1 tvg-id="260514" tvg-name="Carros 3" tvg-logo="https://image.tmdb.org/t/p/w500/oEmdfjqQnAWe1t23WiiW0icFhGv.jpg",Carros 3
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=260514&srv=2658471
+#EXTINF:-1 tvg-id="402431" tvg-name="Wicked" tvg-logo="https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",Wicked
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=402431&srv=3136024
+#EXTINF:-1 tvg-id="948" tvg-name="Halloween - A Noite do Terror" tvg-logo="https://image.tmdb.org/t/p/w500/ozkOzFITxLmp5nkjvuawQaRHNF3.jpg",Halloween - A Noite do Terror
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=948&srv=2664955
+#EXTINF:-1 tvg-id="2832" tvg-name="Identidade" tvg-logo="https://image.tmdb.org/t/p/w500/nnRUp7GRtLY188akcwBAnQzByXd.jpg",Identidade
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=2832&srv=3147918
+#EXTINF:-1 tvg-id="345" tvg-name="De Olhos Bem Fechados" tvg-logo="https://image.tmdb.org/t/p/w500/pmU8WQ2fOdxLuYaNe1kHE2L8SlI.jpg",De Olhos Bem Fechados
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=345&srv=3138064
+#EXTINF:-1 tvg-id="843527" tvg-name="Uma Ideia de Você" tvg-logo="https://image.tmdb.org/t/p/w500/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg",Uma Ideia de Você
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=843527&srv=3139469
+#EXTINF:-1 tvg-id="474350" tvg-name="IT: Capítulo Dois" tvg-logo="https://image.tmdb.org/t/p/w500/qjKvLv6Z2D9QWEOdnsrffguazHk.jpg",IT: Capítulo Dois
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=474350&srv=2664997
+#EXTINF:-1 tvg-id="490132" tvg-name="Green Book: O Guia" tvg-logo="https://image.tmdb.org/t/p/w500/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg",Green Book: O Guia
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=490132&srv=3144912
+#EXTINF:-1 tvg-id="370172" tvg-name="007: Sem Tempo para Morrer" tvg-logo="https://image.tmdb.org/t/p/w500/ymiLbqoSxGSkMeM2vW6JWpmnPjL.jpg",007: Sem Tempo para Morrer
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=370172&srv=2650954
+#EXTINF:-1 tvg-id="156022" tvg-name="O Protetor" tvg-logo="https://image.tmdb.org/t/p/w500/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg",O Protetor
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=156022&srv=3034812
+#EXTINF:-1 tvg-id="38575" tvg-name="Karate Kid" tvg-logo="https://image.tmdb.org/t/p/w500/uC57SSZAkkLBCuWVsEfbqYkRda5.jpg",Karate Kid
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=38575&srv=3145278
+#EXTINF:-1 tvg-id="293660" tvg-name="Deadpool" tvg-logo="https://image.tmdb.org/t/p/w500/tekExNqal2kcHp8BKiHX5jjxK9J.jpg",Deadpool
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=293660&srv=3144247
+#EXTINF:-1 tvg-id="508947" tvg-name="Red: Crescer é Uma Fera" tvg-logo="https://image.tmdb.org/t/p/w500/aJ1uPESSu9zIpmvwCstJalXDeVg.jpg",Red: Crescer é Uma Fera
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=508947&srv=2652135
+#EXTINF:-1 tvg-id="1891" tvg-name="Guerra nas Estrelas: O Império Contra-Ataca" tvg-logo="https://image.tmdb.org/t/p/w500/dLGT8b4Ut10z44uYLaip4QiwKta.jpg",Guerra nas Estrelas: O Império Contra-Ataca
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1891&srv=2666813
+#EXTINF:-1 tvg-id="1359" tvg-name="Psicopata Americano" tvg-logo="https://image.tmdb.org/t/p/w500/4AiFo2MwU62mTtuZ7VH16tlZcmo.jpg",Psicopata Americano
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1359&srv=3134079
+#EXTINF:-1 tvg-id="10674" tvg-name="Mulan" tvg-logo="https://image.tmdb.org/t/p/w500/bmM6nAva9zzNn4PAzJpQsEJxD9G.jpg",Mulan
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=10674&srv=2658838
+#EXTINF:-1 tvg-id="8392" tvg-name="Meu Amigo Totoro" tvg-logo="https://image.tmdb.org/t/p/w500/23KKTxDg6rxZVc66bloQQdPSr29.jpg",Meu Amigo Totoro
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=8392&srv=3145610
+#EXTINF:-1 tvg-id="337404" tvg-name="Cruella" tvg-logo="https://image.tmdb.org/t/p/w500/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg",Cruella
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=337404&srv=2653276
+#EXTINF:-1 tvg-id="615" tvg-name="A Paixão de Cristo" tvg-logo="https://image.tmdb.org/t/p/w500/ptGYQgdYCR8GVMVjpJ8QNJSxlkf.jpg",A Paixão de Cristo
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=615&srv=3142980
+#EXTINF:-1 tvg-id="14" tvg-name="Beleza Americana" tvg-logo="https://image.tmdb.org/t/p/w500/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",Beleza Americana
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=14&srv=3143690
+#EXTINF:-1 tvg-id="321612" tvg-name="A Bela e a Fera" tvg-logo="https://image.tmdb.org/t/p/w500/8JkXzfzwpZNZV72vSbG5c3Vn6Tt.jpg",A Bela e a Fera
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=321612&srv=3045507
+#EXTINF:-1 tvg-id="70981" tvg-name="Prometheus" tvg-logo="https://image.tmdb.org/t/p/w500/k1GZVllOORTiN0XTPdumt9CSAcc.jpg",Prometheus
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=70981&srv=3146816
+#EXTINF:-1 tvg-id="313369" tvg-name="La La Land: Cantando Estações" tvg-logo="https://image.tmdb.org/t/p/w500/AvMietG6xuobpSSdmVnKuTjv4bL.jpg",La La Land: Cantando Estações
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=313369&srv=3029406
+#EXTINF:-1 tvg-id="858024" tvg-name="Hamnet: A Vida Antes de Hamlet" tvg-logo="https://image.tmdb.org/t/p/w500/njatIGrIlZCxB88UUBC2xgmfCNE.jpg",Hamnet: A Vida Antes de Hamlet
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=858024&srv=3125627
+#EXTINF:-1 tvg-id="969492" tvg-name="Zona de Risco" tvg-logo="https://image.tmdb.org/t/p/w500/qLqI0lA5WFIpItLCQNqPJYM3W6p.jpg",Zona de Risco
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=969492&srv=2649266
+#EXTINF:-1 tvg-id="1411773" tvg-name="A Última Batalha de Ellen Cole" tvg-logo="https://image.tmdb.org/t/p/w500/53UBk4UZL0s6bRXLkZB2TSHiqRg.jpg",A Última Batalha de Ellen Cole
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1411773&srv=3133073
+#EXTINF:-1 tvg-id="12155" tvg-name="Alice no País das Maravilhas" tvg-logo="https://image.tmdb.org/t/p/w500/rtBRW9xkP94PRuyDa9zTZahuo27.jpg",Alice no País das Maravilhas
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=12155&srv=4015310
+#EXTINF:-1 tvg-id="135397" tvg-name="Jurassic World: O Mundo dos Dinossauros" tvg-logo="https://image.tmdb.org/t/p/w500/mTRLIP4J4iJrVbJplKiaGnc3G93.jpg",Jurassic World: O Mundo dos Dinossauros
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=135397&srv=2652565
+#EXTINF:-1 tvg-id="168259" tvg-name="Velozes & Furiosos 7" tvg-logo="https://image.tmdb.org/t/p/w500/spydMyyD81HjGJVwZvjajkrWW1h.jpg",Velozes & Furiosos 7
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=168259&srv=3147600
+#EXTINF:-1 tvg-id="9651" tvg-name="Supergirl" tvg-logo="https://image.tmdb.org/t/p/w500/6ar9WnCf6Ac9sA4KTjVPM0pa4jq.jpg",Supergirl
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=9651&srv=3133468
+#EXTINF:-1 tvg-id="640" tvg-name="Prenda-Me se For Capaz" tvg-logo="https://image.tmdb.org/t/p/w500/pSaqcj3pwTKt34cyn6NrBE7V4eH.jpg",Prenda-Me se For Capaz
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=640&srv=2655758
+#EXTINF:-1 tvg-id="381288" tvg-name="Fragmentado" tvg-logo="https://image.tmdb.org/t/p/w500/ztYvYWpSpFtzM2w5MwsmNzzQbJg.jpg",Fragmentado
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=381288&srv=3144799
+#EXTINF:-1 tvg-id="93456" tvg-name="Meu Malvado Favorito 2" tvg-logo="https://image.tmdb.org/t/p/w500/7mYMq6OQyum1wAiUI7i6w78YKEO.jpg",Meu Malvado Favorito 2
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=93456&srv=2658822
+#EXTINF:-1 tvg-id="177677" tvg-name="Missão: Impossível - Nação Secreta" tvg-logo="https://image.tmdb.org/t/p/w500/3TlPBSjixffI0eu0xElK9cM8krO.jpg",Missão: Impossível - Nação Secreta
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=177677&srv=3032349
+#EXTINF:-1 tvg-id="755" tvg-name="Um Drink no Inferno" tvg-logo="https://image.tmdb.org/t/p/w500/jZGDZUXJunRk0Td3a8gBXb4uSrU.jpg",Um Drink no Inferno
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=755&srv=3137138
+#EXTINF:-1 tvg-id="567609" tvg-name="Casamento Sangrento" tvg-logo="https://image.tmdb.org/t/p/w500/k5dJuAdjv1wCq2Vzj1GZfwGmLoU.jpg",Casamento Sangrento
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=567609&srv=3143910
+#EXTINF:-1 tvg-id="10191" tvg-name="Como Treinar o Seu Dragão" tvg-logo="https://image.tmdb.org/t/p/w500/spZbO7Ss6U9W5zSHjtH6FvXvCF7.jpg",Como Treinar o Seu Dragão
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=10191&srv=4031693
+#EXTINF:-1 tvg-id="1387382" tvg-name="Temporada de Sangue" tvg-logo="https://image.tmdb.org/t/p/w500/fDXOdFhBoUNyY7GsM11z7EfKk68.jpg",Temporada de Sangue
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=1387382&srv=3126291
+#EXTINF:-1 tvg-id="399566" tvg-name="Godzilla vs. Kong" tvg-logo="https://image.tmdb.org/t/p/w500/teW53VSLdZMMSmkn5xBBowu3tEr.jpg",Godzilla vs. Kong
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=399566&srv=3144887
+#EXTINF:-1 tvg-id="298618" tvg-name="The Flash" tvg-logo="https://image.tmdb.org/t/p/w500/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",The Flash
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=298618&srv=3141143
+#EXTINF:-1 tvg-id="2501" tvg-name="A Identidade Bourne" tvg-logo="https://image.tmdb.org/t/p/w500/q18OhXWdS0WncHminNK7A7uiEvc.jpg",A Identidade Bourne
+https://tanstack-start-ts.conm3u-play.workers.dev/api/stream?id=2501&srv=3142835
