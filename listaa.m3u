@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1226863" tvg-name="Super Mario Galaxy: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",Super Mario Galaxy: O Filme
-#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/1226863
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://embed-api.clickhost.xyz/embed/stream/3123553?token=c3RyZWFtOjMxMjM1NTM6MTc4MzIxNTY5MDpmNzFjYmZkY2FlNmFhZmE1NWI5YmUwZDRmNjhiNzlmODk2MjJmMmMyZTg3NDM3NzQzNzY5ZjExMWQ1NzExMTRj
+https://embed-api.clickhost.xyz/embed/stream/3123553?token=c3RyZWFtOjMxMjM1NTM6MTc4MzIxNjQ0MTpiMTVlODdmNmMyY2JhODg5OTJhNGY5NDc1YjczYjk3OTY5NjkwMDZhODIzZmFjNDJkM2U2ODQyMGFlZWQ4OGI0
 #EXTINF:-1 tvg-id="15165" tvg-name="Barbie em A Princesa e a Plebéia" tvg-logo="https://image.tmdb.org/t/p/w500/3ExQnuwf6HaA1rLk0xpL9FGbEWK.jpg",Barbie em A Princesa e a Plebéia
-#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/15165
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://embed-api.clickhost.xyz/embed/stream/3046943?token=c3RyZWFtOjMwNDY5NDM6MTc4MzIxNTUzNzozOWUxZWRmY2QwMTI4ZDA0NGI1MWE1YTRjMmFmZTRlYTc1ODIwODIzZGM2MjVjYTE3OWNhNDY4ZmUwZGQ4YTQ4
 #EXTINF:-1 tvg-id="931285" tvg-name="Mortal Kombat 2" tvg-logo="https://image.tmdb.org/t/p/w500/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",Mortal Kombat 2
-#EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-referrer=https://embed-api.clickhost.xyz/embed/filme/931285
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://embed-api.clickhost.xyz/embed/stream/3423350?token=c3RyZWFtOjM0MjMzNTA6MTc4MzIxNTMyODo1N2U2MTI1MWYxNzEyZmU1ODY4YTBjMzExZjVhNzM3YWQyMDQyNjkzZDFkM2JkZTI4Y2Q3NTRlNzI5NWU5MmM4
